@@ -1,0 +1,21 @@
+//Directions to use the file						
+//When information is stored in the CV DB it stores 3 lines for an entry						
+//GROUP		FORM	ID			
+//BLANK5	 	 	N	C	blank5	
+//BLANK5	FORM	 	N	C	form	
+//BLANK5	FORM	1	N	C	 	
+//BLANK5	FORM	2	N	C	 	 
+//BLANK5	FORM	3	N	C	 	 
+//You will see that Blank 5 is created for the Group alone						
+//Then you will see that the Form is created for the form alone						
+//then you will see that the ID's are repeated						
+//If you want to delete everything associated with Blank5 then pass in 						
+//BLANK5||						
+//If you only want to delete ID 1 then pass in 						
+//Blank5|Form|1						
+//first column item is meta data version
+0.0	DISCOPTION||
+2.1	FORMATTING|TAXCM|JUSTIFY-IJ
+2.1	FORMATTING|TAXCM|LINDENT-IJ
+2.1	FORMATTING|TAXCM|RINDENT-IJ
+2.1	FORMATTING|TAXCM|RCTMREGNO-PROP

@@ -1,0 +1,1181 @@
+1	INCOME STAT	Income statement		0		0	0	0	false		0
+1	40.20.00.008	Share capital - No par value Type D		0		0	0	0	false		0
+1	32.20.15.006	Body corporate - Reserve fund bank balances		0		0	0	0	false		0
+1	20.35.00.000	Depn, amort - PPE		0		0	0	0	false		0
+1	20.35.00.001	Impair - PPE		0		0	0	0	false		0
+1	20.35.00.002	RevImpair - PPE		0		0	0	0	false		0
+1	20.35.00.200	Depn, amort - PPE - Farming		0		0	0	0	false		0
+1	20.35.00.201	Impair - PPE - Farming		0		0	0	0	false		0
+1	20.35.00.202	RevImpair - PPE - Farming		0		0	0	0	false		0
+1	20.36	P&L - PPE		0		0	0	0	false		0
+1	22.35.00.000	Depn, amort - Biol Assets		0		0	0	0	false		0
+1	22.35.00.001	Impair - Biol Assets		0		0	0	0	false		0
+1	22.35.00.002	RevImpair - Biol Assets		0		0	0	0	false		0
+1	22.36	Gains and loss on disposal of assets - Biol Asset		0		0	0	0	false		0
+1	22.37	FV Adj - Biol assets		0		0	0	0	false		0
+1	23.35.01.000	Depn, amort - Intangibles		0		0	0	0	false		0
+1	23.35.01.001	Impair - Intangibles		0		0	0	0	false		0
+1	23.35.01.002	RevImpair - Intangibles		0		0	0	0	false		0
+1	23.35.02.000	Depn, amort - Goodwill		0		0	0	0	false		0
+1	23.35.02.001	Impair - Goodwill		0		0	0	0	false		0
+1	23.35.02.002	RevImpair - Goodwill		0		0	0	0	false		0
+1	23.36	P&L - Intangibles		0		0	0	0	false		0
+1	24.30	Income from equity accounted investments		0		0	0	0	false		0
+1	24.35.01.000	Depn, amort - Group cos - Subs		0		0	0	0	false		0
+1	24.35.01.001	Impair - Group cos - Subs		0		0	0	0	false		0
+1	24.35.01.002	RevImpair - Group cos - Subs		0		0	0	0	false		0
+1	24.35.02.000	Depn, amort - Group cos - JV		0		0	0	0	false		0
+1	24.35.02.001	Impair - Group cos - JV		0		0	0	0	false		0
+1	24.35.02.002	RevImpair - Group cos - JV		0		0	0	0	false		0
+1	24.35.03.000	Depn, amort - Group cos - Assoc		0		0	0	0	false		0
+1	24.35.03.001	Impair - Group cos - Assoc		0		0	0	0	false		0
+1	24.35.03.002	RevImpair - Group cos - Assoc		0		0	0	0	false		0
+1	24.35.04.000	Depn, amort - Group cos - Loans		0		0	0	0	false		0
+1	24.35.04.001	Impair - Group cos - Loans		0		0	0	0	false		0
+1	24.35.04.002	RevImpair - Group cos - Loans		0		0	0	0	false		0
+1	24.36.01	P&L - Group cos - Subs		0		0	0	0	false		0
+1	24.36.02	P&L - Group cos - JV		0		0	0	0	false		0
+1	24.36.03	P&L - Group cos - Assoc		0		0	0	0	false		0
+1	25.35.01.000	Depn, amort - Other financial assets		0		0	0	0	false		0
+1	25.35.01.001	Impair - Other financial assets		0		0	0	0	false		0
+1	25.35.01.002	RevImpair - Other financial assets		0		0	0	0	false		0
+1	25.35.02.000	Depn, amort - Other asset 1		0		0	0	0	false		0
+1	25.35.02.001	Impair - Other asset 1		0		0	0	0	false		0
+1	25.35.02.002	RevImpair - Other asset 1		0		0	0	0	false		0
+1	25.35.03.000	Depn, amort - Other asset 2		0		0	0	0	false		0
+1	25.35.03.001	Impair - Other asset 2		0		0	0	0	false		0
+1	25.35.03.002	RevImpair - Other asset 2		0		0	0	0	false		0
+1	25.35.04.000	Depn, amort - Other asset 3		0		0	0	0	false		0
+1	25.35.04.001	Impair - Other asset 3		0		0	0	0	false		0
+1	25.35.04.002	RevImpair - Other asset 3		0		0	0	0	false		0
+1	25.35.05.000	Depn, amort - Loans to managers etc		0		0	0	0	false		0
+1	25.35.05.001	Impair - Loans to managers etc		0		0	0	0	false		0
+1	25.35.05.002	RevImpair - Loans to managers etc		0		0	0	0	false		0
+1	25.36	P&L - Other financial assets		0		0	0	0	false		0
+1	25.37	FV Adj - Other financial assets		0		0	0	0	false		0
+1	27.36.01	P&L - Other asset 1		0		0	0	0	false		0
+1	27.36.02	P&L - Other asset 2		0		0	0	0	false		0
+1	27.36.03	P&L - Other asset 3		0		0	0	0	false		0
+1	29.22	Finance lease assets		0		0	0	0	false		0
+1	29.22.10.100	Finance lease assets - NCA - Cost		0		0	0	0	false		0
+1	29.22.10.150	Finance lease assets - NCA - Loss allowance		0		0	0	0	false		0
+1	29.22.15.100	Finance lease assets - CA - Cost		0		0	0	0	false		0
+1	29.22.15.150	Finance lease assets - CA - Loss allowance		0		0	0	0	false		0
+1	29.22.36	Finance lease assets - P&L		0		0	0	0	false		0
+1	29.24	Operating lease assets		0		0	0	0	false		0
+1	29.24.10	Operating lease assets - NCA		0		0	0	0	false		0
+1	29.24.15	Operating lease assets - CA		0		0	0	0	false		0
+1	30.35.01.000	Impair - Inventories		0		0	0	0	false		0
+1	30.35.01.001	Impair - Inventories		0		0	0	0	false		0
+1	30.35.01.002	RevImpair - Inventories		0		0	0	0	false		0
+1	31.35.01.000	Depn, amort - Trade and other rec		0		0	0	0	false		0
+1	31.35.01.001	Impair - Trade and other rec		0		0	0	0	false		0
+1	31.35.01.002	RevImpair - Trade and other rec		0		0	0	0	false		0
+1	40.30	Minority interest (Income statement)		0		0	0	0	false		0
+1	41.35.00.000	Depn, amort - Other financial liabilities		0		0	0	0	false		0
+1	41.35.00.001	Impair - Other financial liabilities		0		0	0	0	false		0
+1	41.35.00.002	RevImpair - Other financial liabilities		0		0	0	0	false		0
+1	41.36	P&L - Other financial liabilities		0		0	0	0	false		0
+1	41.37	FV Adj - Other financial liabilities		0		0	0	0	false		0
+1	50.30	Taxation		0		0	0	0	false		0
+1	50.30.10	Taxation - Current		0		0	0	0	false		0
+1	50.30.20	Taxation - Deferred		0		0	0	0	false		0
+1	60.30	Revenue - trading (Turnover)		0		0	0	0	false		0
+1	60.30.10	Sale of goods		0		0	0	0	false		0
+1	60.30.10.000	Sale of goods - General and trading		0		0	0	0	false		0
+1	60.30.10.200	Sale of goods - Farming		0		0	0	0	false		0
+1	60.30.15	Rendering of services		0		0	0	0	false		0
+1	60.30.15.000	Rendering of services - General and trading		0		0	0	0	false		0
+1	60.30.15.200	Rendering of services - Farming		0		0	0	0	false		0
+1	60.30.20.000	Construction contracts		0		0	0	0	false		0
+1	60.30.25.000	Royalty income		0		0	0	0	false		0
+1	60.30.30.000	Rental Income		0		0	0	0	false		0
+1	60.30.35.000	Miscellaneous other revenue		0		0	0	0	false		0
+1	60.30.40.400	Interest received (trading)		0		0	0	0	false		0
+1	60.30.45.400	Dividends received (trading)		0		0	0	0	false		0
+1	60.30.50.000	Revenue 1		0		0	0	0	false		0
+1	60.30.55.000	Revenue 2		0		0	0	0	false		0
+1	61.30	Revenue - investment (Investment income)		0		0	0	0	false		0
+1	61.30.10	Dividends received		0		0	0	0	false		0
+1	61.30.20	Interest received - investment		0		0	0	0	false		0
+1	62.30	Cost of sales		0		0	0	0	false		0
+1	62.30.10	Sale of goods		0		0	0	0	false		0
+1	62.30.10.000	Sale of goods - General and trading		0		0	0	0	false		0
+1	62.30.10.200	Sale of goods - Farming		0		0	0	0	false		0
+1	62.30.20	Rendering of services		0		0	0	0	false		0
+1	62.30.20.000	Rendering of services - General and trading		0		0	0	0	false		0
+1	62.30.20.200	Rendering of services - Farming		0		0	0	0	false		0
+1	62.30.30.000	Construction contracts		0		0	0	0	false		0
+1	62.30.4X	Manufacturing costs		0		0	0	0	false		0
+1	62.30.41.100	Manufacturing - Raw materials consumed		0		0	0	0	false		0
+1	62.30.41	Manufacturing		0		0	0	0	false		0
+1	62.30.42	Manufacturing - Employee costs		0		0	0	0	false		0
+1	62.30.43	Manufacturing - Depreciation and impairments		0		0	0	0	false		0
+1	62.30.43.001	Manf - Dep - PPE		0		0	0	0	false		0
+1	62.30.43.002	Manf - Impairments - PPE		0		0	0	0	false		0
+1	62.30.43.003	Manf - Rev Impairments - PPE		0		0	0	0	false		0
+1	62.30.44	Manufacturing expenses		0		0	0	0	false		0
+1	62.30.45	Manufacturing - Distribution expenses		0		0	0	0	false		0
+1	64.30	Other income		0		0	0	0	false		0
+1	64.30.10.000	Administration and management fees received		0		0	0	0	false		0
+1	64.30.15.000	Fees earned		0		0	0	0	false		0
+1	64.30.20.000	Commissions received		0		0	0	0	false		0
+1	64.30.25.000	Royalties received		0		0	0	0	false		0
+1	64.30.30.000	Rental income		0		0	0	0	false		0
+1	64.30.35.000	Discount received		0		0	0	0	false		0
+1	64.30.40.000	Recoveries		0		0	0	0	false		0
+1	64.30.45.000	Other income 1		0		0	0	0	false		0
+1	64.30.50.000	Other income 2		0		0	0	0	false		0
+1	64.30.55.000	Other income 3		0		0	0	0	false		0
+1	64.30.60.000	Other income		0		0	0	0	false		0
+1	64.30.65.200	Other income - farming		0		0	0	0	false		0
+1	64.30.65.201	Other farming income 1		0		0	0	0	false		0
+1	64.30.65.202	Other farming income 2		0		0	0	0	false		0
+1	64.30.65.203	Other farming income 3		0		0	0	0	false		0
+1	64.30.65.204	Other farming income 4		0		0	0	0	false		0
+1	64.30.65.205	Other farming income		0		0	0	0	false		0
+1	64.30.90.000	Government grants		0		0	0	0	false		0
+1	64.32	Profit and loss on exchange differences		0		0	0	0	false		0
+1	65.30	Employee costs		0		0	0	0	false		0
+1	65.30.10	Employee costs - Salaried staff		0		0	0	0	false		0
+1	65.30.10.000	Employee costs - Salaried staff - General		0		0	0	0	false		0
+1	65.30.10.200	Employee costs - Salaried staff - Farming		0		0	0	0	false		0
+1	65.30.20	Employee costs - Wage earning staff - permanent		0		0	0	0	false		0
+1	65.30.20.000	Employee costs - Wage earning staff - permanent -		0		0	0	0	false		0
+1	65.30.20.200	Employee costs - Wage earning staff - permanent -		0		0	0	0	false		0
+1	65.30.25	Employee costs - Wage earning staff - casual		0		0	0	0	false		0
+1	65.30.25.000	Employee costs - Wage earning staff - casual - Gen		0		0	0	0	false		0
+1	65.30.25.200	Employee costs - Wage earning staff - casual - Far		0		0	0	0	false		0
+1	65.30.30	Employee costs - Executives and managers		0		0	0	0	false		0
+1	65.30.30.000	Employee costs - Executives and managers - General		0		0	0	0	false		0
+1	65.30.30.200	Employee costs - Executives and managers - Farming		0		0	0	0	false		0
+1	65.30.32	Employee costs - Directors		0		0	0	0	false		0
+1	65.30.40	Employee costs - Members of CC		0		0	0	0	false		0
+1	65.30.45	Employee costs - Owners/proprietors		0		0	0	0	false		0
+1	66.30	General expenses		0		0	0	0	false		0
+1	66.30.00.000	General expenses - General and trading		0		0	0	0	false		0
+1	66.30.00.200	General expenses - General and trading - Farming		0		0	0	0	false		0
+1	67.30	Finance costs		0		0	0	0	false		0
+1	68.30	P&L on disp of NC assets held for sale & Disp grps		0		0	0	0	false		0
+1	68.32	Discontinued operations		0		0	0	0	false		0
+1	68.34	Restructuring		0		0	0	0	false		0
+1	70.34.35	Depreciation, amortisation and impairments		0		0	0	0	false		0
+1	70.34.35.000	Depreciation, amortisation and impairments - Gener		0		0	0	0	false		0
+1	70.34.35.001	Impair - Impairment General		0		0	0	0	false		0
+1	70.34.35.002	RevImpair - Reversal of Impairments General		0		0	0	0	false		0
+1	70.34.35.200	Depreciation, amortisation and impairments - Farmi		0		0	0	0	false		0
+1	70.35.10	Profit and loss on disposal of assets		0		0	0	0	false		0
+1	BAL SHEET	Balance sheet		0		0	0	0	false		0
+1	20.20	Property, plant and equipment		0		0	0	0	false		0
+1	20.20.10.0X1	Property, plant and equipment - Cost		0		0	0	0	false		0
+1	20.20.10.001	Property, plant and equipment - Cost - Owned		0		0	0	0	false		0
+1	20.20.10.011	Property, plant and equipment - Cost - Leased		0		0	0	0	false		0
+1	20.20.10.0X5	Property, plant and equipment - Acc depr and impai		0		0	0	0	false		0
+1	40.20.00.005	Share capital - No par value Type A		0		0	0	0	false		0
+1	40.20.00.006	Share capital - No par value Type B		0		0	0	0	false		0
+1	40.20.00.007	Share capital - No par value Type C		0		0	0	0	false		0
+1	20.20.10.005	Property, plant and equipment - Acc depr and impai		0		0	0	0	false		0
+1	20.20.10.015	Property, plant and equipment - Acc depr and impai		0		0	0	0	false		0
+1	21.20	Investment property		0		0	0	0	false		0
+1	21.20.10.001	Investment property (fair value) - Cost - Owned		0		0	0	0	false		0
+1	21.20.10.005	Investment property (fair value) - Acc depr and im		0		0	0	0	false		0
+1	21.20.10.011	Investment property (fair value) - Cost - Leased		0		0	0	0	false		0
+1	23.20	Goodwill		0		0	0	0	false		0
+1	23.20.10.001	Goodwill - Cost		0		0	0	0	false		0
+1	23.20.10.005	Goodwill - Accumulated amortisation and impairment		0		0	0	0	false		0
+1	23.22	Intangible assets		0		0	0	0	false		0
+1	23.22.10.0X1	Intangible assets - Cost		0		0	0	0	false		0
+1	23.22.10.001	Intangible assets - Cost - Finite		0		0	0	0	false		0
+1	23.22.10.011	Intangible assets - Cost - Indefinite		0		0	0	0	false		0
+1	23.22.10.0X5	Intangible assets - Acc amort and impair		0		0	0	0	false		0
+1	23.22.10.005	Intangible assets - Acc amort and impair - Finite		0		0	0	0	false		0
+1	23.22.10.015	Intangible assets - Acc amort and impair - Indefin		0		0	0	0	false		0
+1	24.20	Investments in subs		0		0	0	0	false		0
+1	24.20.10.001	Investments in subs - Cost		0		0	0	0	false		0
+1	24.20.10.005	Investments in subs - Impairments		0		0	0	0	false		0
+1	24.22	Investment in JV's		0		0	0	0	false		0
+1	24.22.10.001	Investment in JV's - Cost		0		0	0	0	false		0
+1	24.22.10.005	Investment in JV's - Impairments		0		0	0	0	false		0
+1	24.24	Investments in assocs		0		0	0	0	false		0
+1	24.24.10.001	Investments in assocs - Cost		0		0	0	0	false		0
+1	24.24.10.005	Investments in assocs - Impairments		0		0	0	0	false		0
+1	24.26	Loans to/from group companies		0		0	0	0	false		0
+1	21.20.20.005	Investment property (cost) - Acc depr and im-Owned		0		0	0	0	false		0
+1	24.26.10.001	Loans to/from subs - Non-current asset		0		0	0	0	false		0
+1	24.26.15.001	Loans to/from subs - Current asset		0		0	0	0	false		0
+1		Loans to/from subs		0		0	0	0	false		0
+1	24.26.20.001	Loans to/from subs - Non-current liability		0		0	0	0	false		0
+1	24.26.25.001	Loans to/from subs - Current liability		0		0	0	0	false		0
+1		Loans to/from JV		0		0	0	0	false		0
+1	24.26.10.002	Loans to/from JV - Non-current asset		0		0	0	0	false		0
+1	21.20.20.001	Investment property (cost) - Cost - Owned		0		0	0	0	false		0
+1	21.20.20.011	Investment property (cost) - Cost - Leased		0		0	0	0	false		0
+1	24.26.15.002	Loans to/from JV - Current asset		0		0	0	0	false		0
+1	24.26.20.002	Loans to/from JV - Non-current liability		0		0	0	0	false		0
+1	24.26.25.002	Loans to/from JV - Current liability		0		0	0	0	false		0
+1		Loans to/from Assoc		0		0	0	0	false		0
+1	24.26.10.003	Loans to/from Assoc - Non-current asset		0		0	0	0	false		0
+1	24.26.15.003	Loans to/from Assoc - Current asset		0		0	0	0	false		0
+1	24.26.20.003	Loans to/from Assoc - Non-current liability		0		0	0	0	false		0
+1	24.26.25.003	Loans to/from Assoc - Current liability		0		0	0	0	false		0
+1	21.35.00.000	Depn, amort - Inv Prop (cost model)		0		0	0	0	false		0
+1	21.20.20.015	Investment property (cost) - Acc depr and im-Lease		0		0	0	0	false		0
+1	24.26.10.004	Loans to/from HoldCo - Non-current asset		0		0	0	0	false		0
+1	24.26.15.004	Loans to/from HoldCo - Current asset		0		0	0	0	false		0
+1	21.35.00.004	RevImpair - Inv Prop (cost model)		0		0	0	0	false		0
+1	24.26.20.004	Loans to/from HoldCo - Non-current liability		0		0	0	0	false		0
+1		Loans to/from HoldCo		0		0	0	0	false		0
+1	24.26.25.004	Loans to/from HoldCo - Current liability		0		0	0	0	false		0
+1		Loans to/from FellowSubs		0		0	0	0	false		0
+1	24.26.10.005	Loans to/from FellowSubs - Non-current asset		0		0	0	0	false		0
+1	21.35.00.001	Impair - Inv Prop (fair value model)		0		0	0	0	false		0
+1	24.26.15.005	Loans to/from FellowSubs - Current asset		0		0	0	0	false		0
+1	24.26.20.005	Loans to/from FellowSubs - Non-current liability		0		0	0	0	false		0
+1	24.26.25.005	Loans to/from FellowSubs - Current liability		0		0	0	0	false		0
+1	25.20	Loans to/from shareholders		0		0	0	0	false		0
+1	25.20.10	Loans to/from shareholders - Non-current asset		0		0	0	0	false		0
+1	25.20.15	Loans to/from shareholders - Current asset		0		0	0	0	false		0
+1	21.35.00.003	Impair - Inv Prop (cost model)		0		0	0	0	false		0
+1	25.20.20	Loans to/from shareholders - Non-current liability		0		0	0	0	false		0
+1	25.20.25	Loans to/from shareholders - Current liability		0		0	0	0	false		0
+1	21.35.00.002	RevImpair - Inv Prop (fair value model)		0		0	0	0	false		0
+1	25.22	Loans to/from owners		0		0	0	0	false		0
+1	25.22.10	Loans to/from owners - Non-current asset		0		0	0	0	false		0
+1	25.22.15	Loans to/from owners - Current asset		0		0	0	0	false		0
+1	25.22.20	Loans to/from owners - Non-current liability		0		0	0	0	false		0
+1	25.22.25	Loans to/from owners - Current liability		0		0	0	0	false		0
+1	25.24	Loans to/from body corp owners		0		0	0	0	false		0
+1	25.24.10	Loans to/from body corp owners - Non-current asset		0		0	0	0	false		0
+1	25.24.15	Loans to/from body corp owners - Current asset		0		0	0	0	false		0
+1	21.36.00.001	P&L - Inv Prop (fair value model)		0		0	0	0	false		0
+1	25.24.20	Loans to/from body corp own- Non-current liability		0		0	0	0	false		0
+1	25.24.25	Loans to/from body corp owners - Current liability		0		0	0	0	false		0
+1	25.21	Loans to/from members		0		0	0	0	false		0
+1	25.21.10	Loans to/from members - Non-current asset		0		0	0	0	false		0
+1	25.21.15	Loans to/from members - Current asset		0		0	0	0	false		0
+1	25.21.20	Loans to/from members - Non-current liability		0		0	0	0	false		0
+1	25.21.25	Loans to/from members - Current liability		0		0	0	0	false		0
+1	21.36.00.002	P&L - Inv Prop (cost model)		0		0	0	0	false		0
+1	25.23	Loans to/from beneficiaries		0		0	0	0	false		0
+1	25.23.10	Loans to/from beneficiaries - Non-current asset		0		0	0	0	false		0
+1	25.23.15	Loans to/from beneficiaries - Current asset		0		0	0	0	false		0
+1	25.23.20	Loans to/from beneficiaries- Non-current liability		0		0	0	0	false		0
+1	25.23.25	Loans to/from beneficiaries - Current liability		0		0	0	0	false		0
+1		Other financial assets		0		0	0	0	false		0
+1	25.26	Investments		0		0	0	0	false		0
+1	25.26.10	Investments - Non-current asset		0		0	0	0	false		0
+1	21.37	FV Adj - Inv Prop		0		0	0	0	false		0
+1	25.26.15	Investments - Current asset		0		0	0	0	false		0
+1	25.27	Derivatives		0		0	0	0	false		0
+1	25.27.10	Derivatives - Non-current asset		0		0	0	0	false		0
+1	25.27.15	Derivatives - Current asset		0		0	0	0	false		0
+1	25.28	Other loans and receivables		0		0	0	0	false		0
+1	25.28.10	Other loans and receivables - Non-current asset		0		0	0	0	false		0
+1	25.28.15	Other loans and receivables - Current asset		0		0	0	0	false		0
+1	22.20	Biological assets		0		0	0	0	false		0
+1	22.20.01	Biological assets - Non-current assets - Cost		0		0	0	0	false		0
+1	22.20.05	Biological assets - Non-cur - Acc depr and impair		0		0	0	0	false		0
+1	50.20	Deferred tax		0		0	0	0	false		0
+1	50.20.10	Deferred tax - Non-current asset		0		0	0	0	false		0
+1	50.20.20	Deferred tax - Non-current liability		0		0	0	0	false		0
+1	25.29	Finance leases		0		0	0	0	false		0
+1	25.29.10	Finance leases - Non-current asset		0		0	0	0	false		0
+1	25.29.15	Finance leases - Current asset		0		0	0	0	false		0
+1	25.29.20	Finance leases - Non-current liability		0		0	0	0	false		0
+1	25.29.25	Finance leases - Current liability		0		0	0	0	false		0
+1	27.20	Prepayments		0		0	0	0	false		0
+1	27.20.10	Prepayments - Non-current asset		0		0	0	0	false		0
+1	27.20.15	Prepayments - Current asset		0		0	0	0	false		0
+1	27.22	Retirement benefit asset		0		0	0	0	false		0
+1	27.22.10	Retirement benefit asset - Non-current asset		0		0	0	0	false		0
+1	27.22.15	Retirement benefit asset - Current asset		0		0	0	0	false		0
+1	27.22.20	Retirement benefit asset - Non-current liability		0		0	0	0	false		0
+1	27.22.25	Retirement benefit asset - Current liability		0		0	0	0	false		0
+1	27.23	Municipal deposits		0		0	0	0	false		0
+1	27.27	Asset 1		0		0	0	0	false		0
+1	27.27.10	Asset 1 - Non-current asset		0		0	0	0	false		0
+1	27.27.15	Asset 1 - Current asset		0		0	0	0	false		0
+1	27.28	Asset 2		0		0	0	0	false		0
+1	27.28.10	Asset 2 - Non-current asset		0		0	0	0	false		0
+1	27.28.15	Asset 2 - Current asset		0		0	0	0	false		0
+1	27.29	Asset 3		0		0	0	0	false		0
+1	27.29.10	Asset 3 - Non-current asset		0		0	0	0	false		0
+1	27.29.15	Asset 3 - Current asset		0		0	0	0	false		0
+1	30.22	Construction contracts and receivables		0		0	0	0	false		0
+1	50.22	Current tax		0		0	0	0	false		0
+1	50.22.15	Current asset		0		0	0	0	false		0
+1	50.22.15.001	Current asset - Normal tax		0		0	0	0	false		0
+1	50.22.15.002	Current asset - STC		0		0	0	0	false		0
+1	50.22.15.003	Current asset - CGT		0		0	0	0	false		0
+1	50.22.15.004	Current asset - Tax balance 1		0		0	0	0	false		0
+1	50.22.25	Current liability		0		0	0	0	false		0
+1	50.22.25.001	Current liability - Normal tax		0		0	0	0	false		0
+1	50.22.25.002	Current liability - STC		0		0	0	0	false		0
+1	50.22.25.003	Current liability - CGT		0		0	0	0	false		0
+1	50.22.25.004	Current liability - Tax balance 1		0		0	0	0	false		0
+1	32.20	Cash and cash equivalents		0		0	0	0	false		0
+1	32.20.15	Current asset		0		0	0	0	false		0
+1	32.20.15.001	Cash on hand		0		0	0	0	false		0
+1	32.20.15.002	Bank balances		0		0	0	0	false		0
+1	32.20.15.003	Short-term deposits		0		0	0	0	false		0
+1	32.20.15.004	Preference shares purchased three months prior red		0		0	0	0	false		0
+1	32.20.15.005	Other cash and cash equivalents		0		0	0	0	false		0
+1	32.20.25	Current liability		0		0	0	0	false		0
+1	32.20.25.002	Overdraft		0		0	0	0	false		0
+1	30.20	Inventories		0		0	0	0	false		0
+1	30.20.10.001	Raw materials, components		0		0	0	0	false		0
+1	30.20.10.002	Work in progress		0		0	0	0	false		0
+1	30.20.10.003	Finished goods		0		0	0	0	false		0
+1	30.20.10.004	Merchandise		0		0	0	0	false		0
+1	30.20.10.005	Production supplies		0		0	0	0	false		0
+1	30.20.10.006	Other inventories for sale		0		0	0	0	false		0
+1	30.20.10.007	Inventories 1		0		0	0	0	false		0
+1	30.20.10.008	Inventories 2		0		0	0	0	false		0
+1	30.20.10.009	Agricultural produce 1		0		0	0	0	false		0
+1	30.20.10.010	Agricultural produce 2		0		0	0	0	false		0
+1	30.20.10.011	Agricultural produce 3		0		0	0	0	false		0
+1	30.20.10.012	Agricultural produce 4		0		0	0	0	false		0
+1	30.20.10.013	Agricultural produce 5		0		0	0	0	false		0
+1	30.20.10.014	Other agricultural produce		0		0	0	0	false		0
+1	30.20.10.099	Inventory write-downs		0		0	0	0	false		0
+1	31.20	Trade and other receivables		0		0	0	0	false		0
+1	31.20.10.001	Trade receivables		0		0	0	0	false		0
+1	31.20.10.002	Employee costs in advance		0		0	0	0	false		0
+1	31.20.10.003	Prepayments (if immaterial)		0		0	0	0	false		0
+1	31.20.10.004	Deposits		0		0	0	0	false		0
+1	31.20.10.005	VAT (receivable)		0		0	2	0	false		0
+1	31.20.10.006	Operating lease receivables		0		0	0	0	false		0
+1	31.20.10.007	Other receivables 1		0		0	0	0	false		0
+1	31.20.10.008	Other receivables 2		0		0	0	0	false		0
+1	31.20.10.009	Other receivables		0		0	0	0	false		0
+1	31.20.10.010	Deferred loss on hedges		0		0	0	0	false		0
+1	25.25	Loans to directors, managers and employees		0		0	0	0	false		0
+1	40.20	Share capital		0		0	0	0	false		0
+1	40.20.00.001	Share capital - Ordinary		0		0	0	0	false		0
+1	40.20.00.002	Share capital - Preference		0		0	0	0	false		0
+1	40.20.00.003	Share capital - Premium		0		0	0	0	false		0
+1	40.20.00.004	Share capital - Other		0		0	0	0	false		0
+1	40.22	Non-distributable reserves		0		0	0	0	false		0
+1	40.22.00.001	Foreign currency translation reserve		0		0	0	0	false		0
+1	40.22.00.002	Hedging reserve		0		0	0	0	false		0
+1	40.22.00.003	Revaluation reserve		0		0	0	0	false		0
+1	40.22.00.004	Fair value adjustment assets-available-for-sale re		0		0	0	0	false		0
+1	40.22.00.005	Reserve for own shares / Share repurchase reserve		0		0	0	0	false		0
+1	40.22.00.006	Convertible instruments reserve		0		0	0	0	false		0
+1	40.22.00.007	Other NDR		0		0	0	0	false		0
+1	40.22.00.008	NDR 1		0		0	0	0	false		0
+1	40.24	Distributable reserve		0		0	0	0	false		0
+1	40.24.00.005	Dividends for the period		0		0	0	0	false		0
+1	40.26	Minority interest (Balance sheet)		0		0	0	0	false		0
+1	40.28	Dividend payable		0		0	0	0	false		0
+1	40.29	Compound instruments		0		0	0	0	false		0
+1	40.29.20	Compound instruments - Non-current liability		0		0	0	0	false		0
+1	40.29.25	Compound instruments - Current liability		0		0	0	0	false		0
+1	41.27	Derivatives		0		0	0	0	false		0
+1	41.27.20	Derivatives - Non-current liability		0		0	0	0	false		0
+1	41.27.25	Derivatives - Current liability		0		0	0	0	false		0
+1	41.28	Other loans and payables		0		0	0	0	false		0
+1	41.28.20	Other loans and payables - Non-current liability		0		0	0	0	false		0
+1	41.28.25	Other loans and payables - Current liability		0		0	0	0	false		0
+1	52.20	Provisions		0		0	0	0	false		0
+1	52.20.20	Provisions - Non-current		0		0	0	0	false		0
+1	52.20.20.001	Provisions - Non-current - Restructuring		0		0	0	0	false		0
+1	52.20.20.002	Provisions - Non-current - Environmental rehabilit		0		0	0	0	false		0
+1	52.20.20.003	Provisions - Non-current - Legal procedings		0		0	0	0	false		0
+1	52.20.20.004	Provisions - Non-current - Onerous contract		0		0	0	0	false		0
+1	52.20.20.005	Provisions - Non-current - Product warranties		0		0	0	0	false		0
+1	52.20.20.006	Provisions - Non-current - Environmental rehabilit		0		0	0	0	false		0
+1	52.20.20.007	Provisions - Non-current - Provision 2		0		0	0	0	false		0
+1	52.20.20.008	Provisions - Non-current - Provision 3		0		0	0	0	false		0
+1	52.20.20.009	Provisions - Non-current - Other provisions		0		0	0	0	false		0
+1	52.20.25	Provisions - Current		0		0	0	0	false		0
+1	52.20.25.001	Provisions - Current - Restructuring		0		0	0	0	false		0
+1	52.20.25.002	Provisions - Current - Environmental rehabilitatio		0		0	0	0	false		0
+1	52.20.25.003	Provisions - Current - Legal procedings		0		0	0	0	false		0
+1	52.20.25.004	Provisions - Current - Onerous contract		0		0	0	0	false		0
+1	52.20.25.005	Provisions - Current - Product warranties		0		0	0	0	false		0
+1	52.20.25.006	Provisions - Current - Environmental rehabilitatio		0		0	0	0	false		0
+1	52.20.25.007	Provisions - Current - Provision 2		0		0	0	0	false		0
+1	52.20.25.008	Provisions - Current - Provision 3		0		0	0	0	false		0
+1	52.20.25.009	Provisions - Current - Other provisions		0		0	0	0	false		0
+1	43.20	Deferred income		0		0	0	0	false		0
+1	43.20.20	Deferred income - Non-current liability		0		0	0	0	false		0
+1	43.20.25	Deferred income - Current liability		0		0	0	0	false		0
+1	43.27	Liability 1		0		0	0	0	false		0
+1	43.27.20	Liability 1 - Non-current liability		0		0	0	0	false		0
+1	43.27.25	Liability 1 - Current liability		0		0	0	0	false		0
+1	43.28	Liability 2		0		0	0	0	false		0
+1	43.28.20	Liability 2 - Non-current liability		0		0	0	0	false		0
+1	43.28.25	Liability 2 - Current liability		0		0	0	0	false		0
+1	43.29	Liability 3		0		0	0	0	false		0
+1	43.29.20	Liability 3 - Non-current liability		0		0	0	0	false		0
+1	43.29.25	Liability 3 - Current liability		0		0	0	0	false		0
+1	49.20	Lease liabilities		0		0	0	0	false		0
+1	49.20.20	Lease liabilities - NCL		0		0	0	0	false		0
+1	49.20.25	Lease liabilities - CL		0		0	0	0	false		0
+1	49.24	Operating lease accrual		0		0	0	0	false		0
+1	49.24.20	Operating lease accrual - NCL		0		0	0	0	false		0
+1	49.24.25	Operating lease accrual - CL		0		0	0	0	false		0
+1	51.20	Trade and other payables		0		0	0	0	false		0
+1	51.20.00.001	Trade payables		0		0	0	0	false		0
+1	51.20.00.002	Amounts received in advance		0		0	0	0	false		0
+1	51.20.00.003	VAT (payable)		0		0	1	0	false		0
+1	51.20.00.004	Deposits received		0		0	0	0	false		0
+1	51.20.00.005	Other payables 1		0		0	0	0	false		0
+1	51.20.00.006	Other payables 2		0		0	0	0	false		0
+1	51.20.00.007	Accrued expenses		0		0	0	0	false		0
+1	51.20.00.008	Other payables		0		0	0	0	false		0
+1	51.20.00.009	Operating lease payables		0		0	0	0	false		0
+1	51.20.00.010	Deferred gain on hedges		0		0	0	0	false		0
+1	68.20	Disposal groups and assets held for sale		0		0	0	0	false		0
+1	68.20.10	Assets of disposal groups		0		0	0	0	false		0
+1	68.20.20	Liabilities of disposal groups		0		0	0	0	false		0
+1	01.30.30	Consolidation Worksheet - Summary		0		0	0	0	false		0
+1	40.22.01	Non-distributable reserves - Comprehensive income		0		0	0	0	false		0
+1	40.22.00.009	Reserve fund		0		0	0	0	false		0
+1	40.22.00.011	Foreign currency translation reserve		0		0	0	0	false		0
+1	40.22.00.012	Hedging reserve		0		0	0	0	false		0
+1	22.20.10	Biological assets - Current assets - Cost		0		0	0	0	false		0
+1	40.22.00.013	Other reserve 1		0		0	0	0	false		0
+1	22.20.15	Biological assets - Current - Acc depr and impair		0		0	0	0	false		0
+1	40.22.00.014	Fair value adjustment asset-available for sale re		0		0	0	0	false		0
+1	26.20.00.000	Amortisation		0		0	0	0	false		0
+1	40.24.00.011	Actuarial gains and losses on def. Ben plan		0		0	0	0	false		0
+1	26.20.00.001	Impairments		0		0	0	0	false		0
+1	26.20.00.002	Reversal of impairments		0		0	0	0	false		0
+1	26.20.10.011	Leasehold property leases-NonCur-Cost-Leased		0		0	0	0	false		0
+1	26.20.10.015	Leasehold property leases-NonCur-Acc amort & impai		0		0	0	0	false		0
+1	26.20.15.011	Leasehold property lease rentals - Current asset		0		0	0	0	false		0
+1	26.36	P&L - Leasehold propertyg lease rentals		0		0	0	0	false		0
+2	7010	Income not taxable by virtue of a double taxation	Income not taxable by virtue of a double taxation agreement	0		0	0	0	false		0
+2	7200	Mark-to-market treatment in respect of financial a	Mark-to-market treatment in respect of financial assets and liabilities (s24JB)	0		0	0	0	false		0
+2	7201	Allowance in respect of land conservation in respe	Allowance in respect of land conservation in respect of nature reserves or national parks (s37D)	0		0	0	0	false		0
+2	7202	Learnership agreements registered / in effect (s12	Learnership agreements registered / in effect (s12H) for learners with a disability - agreements entered into before 1 October 2016	0		0	0	0	false		0
+2	7203	Registered learnership agreements completed in cur	Registered learnership agreements completed in current year (s12H) for learners with a disability - agreements entered into before 1 October 2016	0		0	0	0	false		0
+2	7204	Deduction in respect of buildings in special econo	Deduction in respect of buildings in special economic zones (s12S)	0		0	0	0	false		0
+2	7205	Qualifying distributions by a REIT (s25BB)	Qualifying distributions by a REIT (s25BB)	0		0	0	0	false		0
+2	7206	Mark-to-market treatment in respect of financial a	Mark-to-market treatment in respect of financial assets and liabilities (s24JB)	0		0	0	0	false		0
+2	7207	Environmental asset deduction: waste disposal asse	Environmental asset deduction: waste disposal assets (s37B)	0		0	0	0	false		0
+2	7208	Incurral of interest in respect of certain debts d	Incurral of interest in respect of certain debts deemed to be in the production of income (s24O)	0		0	0	0	false		0
+2	4249	Specify the portion of the amount so refunded / di	Specify the portion of the amount so refunded / discharged as was previously allowed by SARS as a deduction in terms of s6quat(1C)	0		0	0	0	false		0
+2	4612	Vehicles	Vehicles	0		0	0	0	false		0
+2	7461	Indemnity payments received	Indemnity payments received	0		0	0	0	false		0
+2	4583	Donations - other	Donations - other	0		0	0	0	false		0
+2	4590	Expenditure incurred in respect of company restruc	Expenditure incurred in respect of company restructuring	0		0	0	0	false		0
+2	6988	Amounts recouped in respect of VCC shares sold for	Amounts recouped in respect of VCC shares sold for which a tax deduction was allowed	0		0	0	0	false		0
+2	6989	Reduction of debt (s19)	Reduction of debt (s19)	0		0	0	0	false		0
+2	7131	Short term insurance policy premiums not (s23L)	Short term insurance policy premiums not allowable (s23L)	0		0	0	0	false		0
+2	7132	Interest not allowable in respect (s23M)	Interest not allowable in respect of debts owed to person(s) not subject to tax (s23M)	0		0	0	0	false		0
+2	7150	Exempt income i.r.o government grants (s12P)	Exempt income received or accrued in respect of government grants (s12P)	0		0	0	0	false		0
+2	7155	Income exempt for international shipping (s12Q)	Income exempt in respect of ships used for international shipping (s12Q)	0		0	0	0	false		0
+2	7160	Improvements not owned by the company (s12N)	Improvements not owned by the company (s12N)	0		0	0	0	false		0
+2	7161	Improvements on property of which gover (s12NA)	Improvements on property of which government holds a right of use or occupation (s12NA)	0		0	0	0	false		0
+2	4428	Contingency allowance (practice note 10)	Contingency allowance (practice note 10)	0		0	0	0	false		0
+2	4429	Unexpired risks	Unexpired risks	0		0	0	0	false		0
+2	4430	Claims intimated but not paid	Claims intimated but not paid	0		0	0	0	false		0
+2	4431	Claims neither intimated nor paid	Claims neither intimated nor paid	0		0	0	0	false		0
+2	4443	Acq-connect person-intnl trans-goods/serv-TotPaid	Acq-connect person-intnl trans-goods/serv-TotPaid	0		0	0	0	false		0
+2	4444	Supplies-connect person-intnl trans-paid/accrued	Supplies-connect person-intnl trans-paid/accrued	0		0	0	0	false		0
+2	4446	Aggregate tax credit balance b/f	Aggregate tax credit balance b/f	0		0	0	0	false		0
+2	4447	Current years credit	Current years credit	0		0	0	0	false		0
+2	4448	Credit offset against STC	Credit offset against STC	0		0	0	0	false		0
+2	4450	Total credit forfeited	Total credit forfeited	0		0	0	0	false		0
+2	4451	Gross Income	Gross Income	0		0	0	0	false		0
+2	4452	Pipelines, transmission lines and railway lines	Pipelines, transmission lines and railway lines (section 12D)	0		0	0	0	false		0
+2	69A6	Start-up costs (section 12E(3A))	Start-up costs (section 12E(3A))	0		0	0	0	false		0
+2	4454	Aircraft hangers, aprons, runways and taxiways	Aircraft hangers, aprons, runways and taxiways	0		0	0	0	false		0
+2	4459	Credit offset against current year	Credit offset against current year	0		0	0	0	false		0
+2	4471	Pre-trade expenditure and losses (section 11A)	Pre-trade expenditure and losses (section 11A)	0		0	0	0	false		0
+2	4577	Lease payments (operating lease)	Lease payments (operating lease)	0		0	0	0	false		0
+2	6946	Acc adj. to comply with IFRS	Accounting adjustments to comply with IFRS	0		0	0	0	false		0
+2	6701	Amount incurred during tax year	Amount incurred during tax year	0		0	0	0	false		0
+2	6702	Amount claimed for current tax year	Amount claimed for current tax year	0		0	0	0	false		0
+2	6904	Amt dep in LandBank IRO livestk sold dueto drought	Amt dep in LandBank IRO livestk sold dueto drought	0		0	0	0	false		0
+2	6909	Fair val. adj. to comply with IFRS	Fair value adjustments to comply with IFRS	0		0	0	0	false		0
+2	6916	Benefication process allowance (section 37E)	Benefication process allowance (section 37E)	0		0	0	0	false		0
+2	6998	Learnership agreement completed in curr yr (s12H)	Learnership Allowance (s12H) - agreements in effect / completed in current year (agreements entered into on or after 1 October 2016)	0		0	0	0	false		0
+2	4104	Export compensation credit	Export compensation credit	0		0	0	0	false		0
+2	69A2	Research and development (section 11B)	Research and development	0		0	0	0	false		0
+2	69A5	Intellectual property (section 11(gC))	Intellectual property (section 11(gC))	0		0	0	0	false		0
+2	4402	Capital gains	Capital gains	0		0	0	0	false		0
+2	4403	Foreign income: taxable	Foreign income: taxable	0		0	0	0	false		0
+2	4404	Foreign income: non-taxable	Foreign income: non-taxable	0		0	0	0	false		0
+2	4405	Bad debts written off	Bad debts written off	0		0	0	0	false		0
+2	4406	Building allowance (section 13)	Building allowance (section 13)	0		0	0	0	false		0
+2	4407	Capital improvements - farming operations	Capital Improvement - Farming operations (par 12 of the First Schedule)	0		0	0	0	false		0
+2	4409	Donations to public benefits organisations	Donations to public benefits organisations	0		0	0	0	false		0
+2	4411	Econ dev allowance (sections 10(1)(zC), 10(1)(zD))	Economic development area allowance 	0		0	0	0	false		0
+2	4412	Export compensation allowance	Export compensation allowance	0		0	0	0	false		0
+2	4415	Hotel building allowance (section 13bis)	Hotel building allowance (section 13bis)	0		0	0	0	false		0
+2	4416	Intellectual property allowance	Intellectual property (section 11(gA))	0		0	0	0	false		0
+2	4420	Leave pay provisions (per balance sheet)	Leave pay provisions (per balance sheet)	0		0	0	0	false		0
+2	4422	Plantation expenditure	Plantation expenditure	0		0	0	0	false		0
+2	4423	Recoupments	Recoupments	0		0	0	0	false		0
+2	4424	Residential building allowance (section 13ter)	Residential building allowance (section 13ter)	0		0	0	0	false		0
+2	6513	LOSS: Foreign currency	LOSS: Foreign currency	0		0	0	0	false		0
+2	6512	Foreign currency	Foreign currency	0		0	0	0	false		0
+2	4456	Credit amount carried forward	Credit amount carried forward	0		0	0	0	false		0
+2	4449	Credit offset against current year	Credit offset against current year	0		0	0	0	false		0
+2	6984	Recoupment of allowances	Recoupment of allowances	0		0	0	0	false		0
+2	6981	Withdrwl - LandBank IRO livestk sold dueto drought	Withdrwl - LandBank IRO livestk sold dueto drought	0		0	0	0	false		0
+2	6980	Tax on profits & withhldng tax on foreign divs	Tax upon profits and withholding taxes (s 11C(4))	0		0	0	0	false		0
+2	6972	Amounts not credited to the income statement	Amounts not credited to the income statement	0		0	0	0	false		0
+2	6962	Allowances / deductions reversed	Allowances / deductions reversed	0		0	0	0	false		0
+2	6957	Restraint of trade payments (section 11(cA))	Restraint of trade payments	0		0	0	0	false		0
+2	6949	Expenses attributable to exempt foreign dividends	Expenses attributable to exempt foreign dividends	0		0	0	0	false		0
+2	6941	Non-deductible amounts debited to income statement	Non-deductible amounts debited to income statement	0		0	0	0	false		0
+2	7001	Income exempt by virtue of double taxation agreeme	Income exempt by virtue of double taxation agreement	0		0	0	0	false		0
+2	7002	Expenditure before commencing trade (s11A)	Expenditure before commencing trade (s11A)	0		0	0	0	false		0
+2	7003	Pipelines, transmission and rail deduction (s12D)	Pipelines, transmission and rail deduction (s12D)	0		0	0	0	false		0
+2	7004	Rolling stock (s12DA)	Rolling stock (s12DA)	0		0	0	0	false		0
+2	7005	Airport and port assets (s12F)	Airport and port assets (s12F)	0		0	0	0	false		0
+2	7006	Registered learnership agreements completed in cur	Registered learnership agreements completed in current year (s12H) - excluding learners with a disability - agreements entered into before 1 October 2016	0		0	0	0	false		0
+2	7007	Industrial policy projects: Greenfield projects (s	Industrial policy projects: Greenfield projects (s12I)	0		0	0	0	false		0
+2	7008	Venture Capital Company shares (s12J)	Expenditure incurred in exchange for the issue of Venture Capital Company shares (s12J)	0		0	0	0	false		0
+2	7135	Provision for doubtful debt not deductible in curr	Provision for doubtful debt not deductible in current year	0		0	0	0	false		0
+2	7130	Interest non-deductible in terms of s23K	Interest non-deductible in terms of s23K	0		0	0	0	false		0
+2	7125	Expenses not actually incurred in the production o	Expenses not actually incurred in the production of income (s11(a))	0		0	0	0	false		0
+2	7122	Donations - other	Donations - other	0		0	0	0	false		0
+2	7121	Limitation of expenditure incurred by a les (s17A)	Limitation of expenditure incurred by a lesser of land let for farming purposes in respect of soil erosion (s17A)	0		0	0	0	false		0
+2	7110	Deductions in respect of co-operatives (s27)	Deductions in respect of co-operatives (s27)	0		0	0	0	false		0
+2	7111	Environmental asset deduction: treatment and recyc	Environmental asset deduction: treatment and recycling assets (s37B)	0		0	0	0	false		0
+2	7112	Environmental conservation and maintenance deducti	Environmental conservation and maintenance deduction (s37C)	0		0	0	0	false		0
+2	7103	Commercial building deduction (s13quin)	Commercial building deduction (s13quin)	0		0	0	0	false		0
+2	7104	Residential unit deduction (s13sex)	Residential unit deduction (s13sex)	0		0	0	0	false		0
+2	7105	Low cost residential unit deduction (s13sept)	Low cost residential unit deduction (s13sept)	0		0	0	0	false		0
+2	7009	Deduction of medical lump sum payments (s12M)	Deduction of medical lump sum payments (s12M)	0		0	0	0	false		0
+2	7143	Exemption in respect of films (s12O)	Exemption in respect of films (s12O)	0		0	0	0	false		0
+2	7100	Deduction of buildings used in a manufacturing pro	Deduction of buildings used in a manufacturing process (s13)	0		0	0	0	false		0
+2	7101	Hotel building deduction (s13bis)	Hotel building deduction (s13bis)	0		0	0	0	false		0
+2	7102	Residential building deduction (s13ter)	Residential building deduction (s13ter)	0		0	0	0	false		0
+2	7140	Research and development deduction (s11B)	Research and development deduction (s11B)	0		0	0	0	false		0
+2	7141	Manufacturers, hotelkeepers, aircraft, ship, stora	Manufacturers, hotel keepers, aircraft, ship, storage and packing of agricultural productsdeduction (s12C)	0		0	0	0	false		0
+2	4501.1	Gross Sales (excl. credit notes) – Foreign: Connec	Gross Sales (excl. credit notes) - Foreign: Connected	0		0	0	0	false		0
+2	4502.1	Less: Opening stock	Less: Opening stock	0		0	0	0	false		0
+2	4502.2	Less: Credit notes on sales	Less: Credit notes on sales	0		0	0	0	false		0
+2	4502.3	Less: Purchases – Foreign: Connected (excl. rebate	Less: Purchases - Foreign: Connected (excl. rebates)	0		0	0	0	false		0
+2	4502.4	Less: Purchases – Other than foreign connected (ex	Less: Purchases - Other than foreign connected (excl. rebates)	0		0	0	0	false		0
+2	4502.5	Add: Rebates	Add: Rebates	0		0	0	0	false		0
+2	4502.6	Add: Closing stock (Gross excl. adjustments)	Add: Closing stock (Gross excl. adjustments)	0		0	0	0	false		0
+2	4512.1	Interest – Non-connected	Interest - Non-connected	0		0	0	0	false		0
+2	4513	Levy income	Levy income	0		0	0	0	false		0
+2	4516.1	Admin., management, secretarial, rentals, guarante	Admin., management, secretarial, rentals, guarantee fees and other services - Connected (Foreign)	0		0	0	0	false		0
+2	4548	Capital improvements – farming operations (par 12	Capital improvements - farming operations (par 12 of the First Schedule)	0		0	0	0	false		0
+2	4549	Commission paid	Commission paid	0		0	0	0	false		0
+2	4550	Expenditure incurred directly or indirectly in eff	Expenditure incurred directly or indirectly in effecting BEE and / or BBEEE compliance	0		0	0	0	false		0
+2	4529.1	Employee expenses: Group life insurance	Employee expenses: Group life insurance	0		0	0	0	false		0
+2	4529.2	Employee expenses: UIF contributions and SDL	Employee expenses: UIF contributions and SDL	0		0	0	0	false		0
+2	4582	Employee expenses: Medical scheme contributions	Employee expenses: Medical scheme contributions	0		0	0	0	false		0
+2	4529.3	Employee expenses: Membership of a professional bo	Employee expenses: Membership of a professional body	0		0	0	0	false		0
+2	4522.1	Interest - Connected (Foreign)	Interest - Connected (Foreign)	0		0	0	0	false		0
+2	4522.2	Interest - Non-connected	Interest - Non-connected	0		0	0	0	false		0
+2	4580.1	Insurance premium in respect of rehabilitation obl	Insurance premium in respect of rehabilitation obligations (s37A)	0		0	0	0	false		0
+2	4580.2	Key man insurance (s11(w))	Key man insurance (s11(w))	0		0	0	0	false		0
+2	4555	Operating lease payments - Connected	Operating lease payments - Connected	0		0	0	0	false		0
+2	4555.1	Operating lease payments – Non-connected	Operating lease payments - Non-connected	0		0	0	0	false		0
+2	4555.2	Lease payments other than operating leases	Lease payments other than operating leases	0		0	0	0	false		0
+2	4570.1	Research and development costs (s11D)	Research and development costs (s11D)	0		0	0	0	false		0
+2	4572.1	Royalties and license fees (excluding payments in	Royalties and license fees (excluding payments in terms of mineral and petroleum resources royalties) - Foreign	0		0	0	0	false		0
+2	4572.2	Royalty payments in respect of mineral and petrole	Royalty payments in respect of mineral and petroleum resources royalties - Local	0		0	0	0	false		0
+2	4572.3	Royalty payments in respect of mineral and petrole	Royalty payments in respect of mineral and petroleum resources royalties - Foreign	0		0	0	0	false		0
+2	4613.1	Long-term loans – interest free: Non-Connected (Lo	Long-term loans - interest free: Non-Connected (Local)	0		0	0	0	false		0
+2	4613.2	Long-term loans – interest free: Connected (Foreig	Long-term loans - interest free: Connected (Foreign)	0		0	0	0	false		0
+2	4613.3	Long-term loans – interest free: Non-Connected (Fo	Long-term loans - interest free: Non-Connected (Foreign)	0		0	0	0	false		0
+2	4614.1	Long-term loans – interest bearing: Non-Connected	Long-term loans - interest bearing: Non-Connected (Local)	0		0	0	0	false		0
+2	4614.2	Long-term loans – interest bearing: Connected (For	Long-term loans - interest bearing: Connected (Foreign)	0		0	0	0	false		0
+2	4614.3	Long-term loans – interest bearing: Non-Connected	Long-term loans - interest bearing: Non-Connected (Foreign)	0		0	0	0	false		0
+2	4615.1	Less: Provisions for inventory write off	Less: Provisions for inventory write off	0		0	0	0	false		0
+2	4637.1	Less: Provisions for trade and other receivables (	Less: Provisions for trade and other receivables (excl. trade debtors)	0		0	0	0	false		0
+2	4637.2	Gross debtors (excl. trade debtors)	Gross debtors (excl. trade debtors)	0		0	0	0	false		0
+2	4637.3	Less: Provisions for debtors (excl. trade debtors)	Less: Provisions for debtors (excl. trade debtors)	0		0	0	0	false		0
+2	4607.1	Long-term loans – interest bearing: Non-Connected	Long-term loans - interest bearing: Non-Connected (Local)	0		0	0	0	false		0
+2	4607.2	Long-term loans – interest bearing: Connected (For	Long-term loans - interest bearing: Connected (Foreign)	0		0	0	0	false		0
+2	4607.3	Long-term loans – interest bearing: Non-Connected	Long-term loans - interest bearing: Non-Connected (Foreign)	0		0	0	0	false		0
+2	4608.1	Long-term loans – interest free: Non-Connected (Lo	Long-term loans - interest free: Non-Connected (Local)	0		0	0	0	false		0
+2	4608.2	Long-term loans – interest free: Connected (Foreig	Long-term loans - interest free: Connected (Foreign)	0		0	0	0	false		0
+2	4608.3	Long-term loans – interest free: Non-Connected (Fo	Long-term loans - interest free: Non-Connected (Foreign)	0		0	0	0	false		0
+2	4623.1	Gross trade and other payables (Older than 3 years	Gross trade and other payables (Older than 3 years)	0		0	0	0	false		0
+2	6995	Reversal of previous year allowances / deductions	Reversal of previous year allowances / deductions granted	0		0	0	0	false		0
+2	6994	Taxable amounts not declared in Income Statement (	Taxable amounts not declared in Income Statement (incl. recoupments)	0		0	0	0	false		0
+2	6993	Levy exemption in terms of s10(1)(e)(i) (refer to	Levy exemption in terms of s10(1)(e)(i) (refer to guide)	0		0	0	0	false		0
+2	6991	Other income exemption (excluding levy) in terms o	Other income exemption (excluding levy) in terms of s10(1)(e)(ii) (refer to guide)	0		0	0	0	false		0
+2	4523	Interest and penalties paid to SARS	Interest and penalties paid to SARS	0		0	0	0	false		0
+2	4529.4	Employee expenses: Training	Employee expenses: Training	0		0	0	0	false		0
+2	4516.2	Management fees - Connected	Management fees - Connected	0		0	0	0	false		0
+2	4516.3	Management fees - Non-connected	Management fees - Non-connected	0		0	0	0	false		0
+2	4599.1	Impairment loss recognised in profit or loss	Impairment loss recognised in profit or loss	0		0	0	0	false		0
+2	4599.2	Partnership / Joint venture loss - Foreign	Partnership / Joint venture loss - Foreign	0		0	0	0	false		0
+2	4599.3	Partnership / Joint venture loss - Local	Partnership / Joint venture loss - Local	0		0	0	0	false		0
+2	4599.4	Small items and loose tools	Small items and loose tools	0		0	0	0	false		0
+2	6967	Exempt foreign dividends (s10B)	Exempt foreign dividends (s10B)	0		0	0	0	false		0
+2	6502	GAIN: Immovable assets (e.g. land, buildings, mini	GAIN: Immovable assets (e.g. land, buildings, mining and mineral rights)	0		0	0	0	false		0
+2	6506	GAIN: Financial instruments - listed, including as	GAIN: Financial instruments - listed, including assets of which prices are regularly published in newspaper (e.g. shares, a participatory interest in a portfolio of a collective investment scheme, gold and platinum coins of which value is mainly derived from their metal content, bonds, futures, options)	0		0	0	0	false		0
+2	6508	GAIN: Financial instruments unlisted (e.g. shares,	GAIN: Financial instruments unlisted (e.g. shares, debentures, promissory notes, bonds, options, forward contracts, swaps, debt)	0		0	0	0	false		0
+2	6530	GAIN: Immovable assets (e.g. land, buildings, mini	GAIN: Immovable assets (e.g. land, buildings, mining and mineral rights)	0		0	0	0	false		0
+2	4507.1	Admin., management, secretarial, rentals, guarante	Admin., management, secretarial, rentals, guarantee fees and other services - Connected (Foreign)	0		0	0	0	false		0
+2	6503	LOSS: Immovable assets (e.g. land, buildings, mini	LOSS: Immovable assets (e.g. land, buildings, mining and mineral rights)	0		0	0	0	false		0
+2	6504	GAIN: Primary residence (e.g. house, townhouse, fl	GAIN: Primary residence (e.g. house, townhouse, flat, boathouse, caravan)	0		0	0	0	false		0
+2	6505	LOSS: Primary residence (e.g. house, townhouse, fl	LOSS: Primary residence (e.g. house, townhouse, flat, boathouse, caravan)	0		0	0	0	false		0
+2	6507	LOSS: Financial instruments - listed, including as	LOSS: Financial instruments - listed, including assets of which prices are regularly published in newspaper (e.g. shares, a participatory interest in a portfolio of a collective investment scheme, gold and platinum coins of which value is mainly derived from their metal content, bonds, futures, options)	0		0	0	0	false		0
+2	6509	LOSS: Financial instruments unlisted (e.g. shares,	LOSS: Financial instruments unlisted (e.g. shares, debentures, promissory notes, bonds, options, forward contracts, swaps, debt)	0		0	0	0	false		0
+2	6510	GAIN: Intangible assets (e.g. goodwill, trademarks	GAIN: Intangible assets (e.g. goodwill, trademarks, copyrights, franchises, licences)	0		0	0	0	false		0
+2	6511	LOSS: Intangible assets (e.g. goodwill, trademarks	LOSS: Intangible assets (e.g. goodwill, trademarks, copyrights, franchises, licences)	0		0	0	0	false		0
+2	6514	GAIN: Plant and machinery	GAIN: Plant and machinery	0		0	0	0	false		0
+2	6515	LOSS: Plant and machinery	LOSS: Plant and machinery	0		0	0	0	false		0
+2	6516	GAIN: Other movable property used mainly for trade	GAIN: Other movable property used mainly for trade purposes (e.g. aircraft, boats, motor vehicles, office furniture and equipment)	0		0	0	0	false		0
+2	6517	LOSS: Other movable property used mainly for trade	LOSS: Other movable property used mainly for trade purposes (e.g. aircraft, boats, motor vehicles, office furniture and equipment)	0		0	0	0	false		0
+2	6518	GAIN: Other movable property not used mainly for t	GAIN: Other movable property not used mainly for trade purposes other than personal-use assets (e.g. boats > 10 metres and personal use aircraft >450 kg, fiduciary, usufructuary or similar assets, leases of immovable property, time-sharing interests)	0		0	0	0	false		0
+2	6519	Loss: Other movable property not used mainly for t	Loss: Other movable property not used mainly for trade purposes other than personal-use assets (e.g. boats > 10 metres and personal use aircraft >450 kg, fiduciary, usufructuary or similar assets, leases of immovable property, time-sharing interests)	0		0	0	0	false		0
+2	6531	LOSS: Immovable assets (e.g. land, buildings, mini	LOSS: Immovable assets (e.g. land, buildings, mining and mineral rights)	0		0	0	0	false		0
+2	6532	GAIN: Primary residence (e.g. house, townhouse, fl	GAIN: Primary residence (e.g. house, townhouse, flat, boathouse, caravan)	0		0	0	0	false		0
+2	6533	LOSS: Primary residence (e.g. house, townhouse, fl	LOSS: Primary residence (e.g. house, townhouse, flat, boathouse, caravan)	0		0	0	0	false		0
+2	6534	GAIN: Financial instruments - listed, including as	GAIN: Financial instruments - listed, including assets of which prices are regularly published in newspaper (e.g. shares, a participatory interest in a portfolio of a collective investment scheme, gold and platinum coins of which value is mainly derived from their metal content, bonds, futures, options)	0		0	0	0	false		0
+2	6535	LOSS: Financial instruments - listed, including as	LOSS: Financial instruments - listed, including assets of which prices are regularly published in newspaper (e.g. shares, a participatory interest in a portfolio of a collective investment scheme, gold and platinum coins of which value is mainly derived from their metal content, bonds, futures, options)	0		0	0	0	false		0
+2	6536	GAIN: Financial instruments unlisted (e.g. shares,	GAIN: Financial instruments unlisted (e.g. shares, debentures, promissory notes, bonds, options, forward contracts, swaps, debt)	0		0	0	0	false		0
+2	6537	LOSS: Financial instruments unlisted (e.g. shares,	LOSS: Financial instruments unlisted (e.g. shares, debentures, promissory notes, bonds, options, forward contracts, swaps, debt)	0		0	0	0	false		0
+2	6538	GAIN: Intangible assets (e.g. goodwill, trademarks	GAIN: Intangible assets (e.g. goodwill, trademarks, copyrights, franchises, licences)	0		0	0	0	false		0
+2	6539	LOSS: Intangible assets (e.g. goodwill, trademarks	LOSS: Intangible assets (e.g. goodwill, trademarks, copyrights, franchises, licences)	0		0	0	0	false		0
+2	6540	GAIN: Plant and machinery	GAIN: Plant and machinery	0		0	0	0	false		0
+2	6541	LOSS: Plant and machinery	LOSS: Plant and machinery	0		0	0	0	false		0
+2	6542	GAIN: Other movable property used mainly for trade	GAIN: Other movable property used mainly for trade purposes (e.g. aircraft, boats, motor vehicles, office furniture and equipment)	0		0	0	0	false		0
+2	6543	LOSS: Other movable property used mainly for trade	LOSS: Other movable property used mainly for trade purposes (e.g. aircraft, boats, motor vehicles, office furniture and equipment)	0		0	0	0	false		0
+2	6544	GAIN: Other movable property not used mainly for t	GAIN: Other movable property not used mainly for trade purposes other than personal-use assets (e.g. boats > 10 metres and personal use aircraft >450 kg, fiduciary, usufructuary or similar assets, leases of immovable property, time-sharing interests)	0		0	0	0	false		0
+2	6545	Loss: Other movable property not used mainly for t	Loss: Other movable property not used mainly for trade purposes other than personal-use assets (e.g. boats > 10 metres and personal use aircraft >450 kg, fiduciary, usufructuary or similar assets, leases of immovable property, time-sharing interests)	0		0	0	0	false		0
+2	9999	Taxation per Trial Balance	Taxation per Trial Balance	0		0	0	0	false		0
+2	4427	Wear and tear allowance (section 11(e))	Wear and tear allowance (s11(e))	0		0	0	0	false		0
+2	6903_1	Adjustments to comply with IFRS: Accounting	Adjustments to comply with IFRS: Accounting	0		0	0	0	false		0
+2	6991_1	Income exempt in respect of mining rehabilitation	Income exempt in respect of mining rehabilitation company (s10(1)(cP))	0		0	0	0	false		0
+2	6982_2	Fruitless and wasteful expenditure recovered s10	Fruitless and wasteful expenditure recovered (s10(1)(zL))	0		0	0	0	false		0
+2	6947_1	Adjustments to comply with IFRS: Accounting	Adjustments to comply with IFRS: Accounting	0		0	0	0	false		0
+2	6982_1	Fruitless and wasteful expenditure	Fruitless and wasteful expenditure	0		0	0	0	false		0
+2	7324_1	Foreign exchange gain adjustment relating to debt	Foreign exchange gain adjustment relating to debt (s24I(4))	0		0	0	0	false		0
+2	4410_1	Doubtful debt allowance – IFRS applied (s11(j)(i))	Doubtful debt allowance – IFRS applied (s11(j)(i)) - Current year allowance	0		0	0	0	false		0
+2	4410_2	Doubtful debt allowance - IFRS not applied (s11(j)	Doubtful debt allowance - IFRS not applied (s11(j)(ii)) - Current year allowance	0		0	0	0	false		0
+2	7526	Foreign exchange loss adjustment relating to debt	Foreign exchange loss adjustment relating to debt (s24I(4))	0		0	0	0	false		0
+2	6968_1	Doubtful debt allowance - IFRS applied (s11(j)(i))	Doubtful debt allowance - IFRS applied (s11(j)(i)) - Previous year reversal	0		0	0	0	false		0
+2	6968_2	Doubtful debt allowance - IFRS not applied (s11(j)	Doubtful debt allowance - IFRS not applied (s11(j)(ii)) - Previous year reversal	0		0	0	0	false		0
+2	4544	REIT distributions received	REIT distributions received	0		0	0	0	false		0
+2	4437	Loss allowance i.r.o. impaired debt (s11(jA))	Loss allowance i.r.o. impaired debt (s11(jA))	0		0	0	0	false		0
+2	7011	Loss allowance i.r.o. impaired debt (s11(jA))	Loss allowance i.r.o. impaired debt (s11(jA))	0		0	0	0	false		0
+2	4647	Investments in associates and joint ventures	Investments in associates and joint ventures	0		0	0	0	false		0
+2	4636.1	Other non-current assets (Flip)	Other non-current assets (Flip)	0		0	0	0	false		0
+2	4622.2	Other current assets	Other current assets	0		0	0	0	false		0
+2	4621.1	Short term investments (Flip)	Short term investments (Flip)	0		0	0	0	false		0
+2	4637.4	Trade and other receivables (net after provisions)	Trade and other receivables (net after provisions) (Flip)	0		0	0	0	false		0
+2	4638.1	Cash and cash equivalents (Flip)	Cash and cash equivalents (Flip)	0		0	0	0	false		0
+2	4643.1	Other non-current liabilities (Flip)	Other non-current liabilities (Flip)	0		0	0	0	false		0
+2	4631.2	Other current liabilities - retire (Flip)	Other current liabilities - retire (Flip)	0		0	0	0	false		0
+2	4623.2	Trade and other payables (including accruals) (Fli	Trade and other payables (including accruals) (Flip)	0		0	0	0	false		0
+2	4628.1	Overdraft and int-bearing short term borrowings (F	Overdraft and int-bearing short term borrowings (Flip)	0		0	0	0	false		0
+2	4543	Insurance proceeds received	Insurance proceeds received	0		0	0	0	false		0
+2	9998	Discontinued Operations	Discontinued Operations	0		0	0	0	false		0
+2	9997	Non Controlling Interest	Non Controlling Interest	0		0	0	0	false		0
+2	7308	Amounts deemed to be dividends in specie (s8F and	Amounts deemed to be dividends in specie (s8F and s8FA)	0		0	0	0	false		0
+2	7324	Foreign exch gain adjustment (s24I)excl s24l(4))	Foreign exchange gain adjustment (s24I) (excluding s24I(4))	0		0	0	0	false		0
+2	7325	Foreign currency translation adjustment (s25D)	Foreign currency translation adjustment (s25D)	0		0	0	0	false		0
+2	7372	Mineral and Petroleum Resources Royalty adjustment	Mineral and Petroleum Resources Royalty adjustment	0		0	0	0	false		0
+2	7572	Mineral and Petroleum Resources Royalty adjustment	Mineral and Petroleum Resources Royalty adjustment	0		0	0	0	false		0
+2	7508	Amounts deemed to be dividends in specie (s8F and	Amounts deemed to be dividends in specie (s8F and s8FA)	0		0	0	0	false		0
+2	7133	Deductions not allowable in determination of (s23)	Deductions not allowable in determination of taxable income (s23)	0		0	0	0	false		0
+2	7134	Amounts in respect of assets subject to sale (s23G	Amounts in respect of assets subject to sale and leaseback arrangement (s23G)	0		0	0	0	false		0
+2	7136	Amounts in respect of certain (tainted) in (s23I)	Amounts in respect of certain (tainted) intellectual property (s23I)	0		0	0	0	false		0
+2	7525	Foreign currency translation adjustment (s25D)  Fo	Foreign currency translation adjustment (s25D)	0		0	0	0	false		0
+2	7540	Expenditure attribute to the issue of share (s40C)	Expenditure attribute to the issue of shares or granting of options or rights for no consideration (s40C)	0		0	0	0	false		0
+2	7220	Accrual of amounts in respect of interest (s24K)	Accrual of amounts in respect of interest rate agreements (s24K)	0		0	0	0	false		0
+2	7221	Accrual of amounts in respect of option cont(s24L)	Accrual of amounts in respect of option contracts (s24L)	0		0	0	0	false		0
+2	7222	Accrual of amounts in respect of assets disp(s24M)	Accrual of amounts in respect of assets disposed for unquantified amount (s24M)	0		0	0	0	false		0
+2	7223	Accrual of amounts in respect of acquisition(s24N)	Accrual of amounts in respect of acquisition of equity shares (s24N)	0		0	0	0	false		0
+2	7224	Allowance in respect of future repairs to (s24P)	Allowance in respect of future repairs to certain ships (s24P)	0		0	0	0	false		0
+2	7050	Capital expenditure - paragraph (j) definition s1	Capital expenditure - paragraph (j) definition "gross income" s1	0		0	0	0	false		0
+2	7051	Foreign tax credits refunded / discharged prev(1C)	Foreign tax credits refunded / discharged previously allowed in terms of s6quat(1C)	0		0	0	0	false		0
+2	6990	Industrial policy project (s12I)	Industrial policy project (s12I)	0		0	0	0	false		0
+2	7113	Incurral of amounts in respect of interest (s24K)	Incurral of amounts in respect of interest rate agreements (s24K)	0		0	0	0	false		0
+2	7114	Incurral of amounts in respect of option con(s24L)	Incurral of amounts in respect of option contracts(s24L)	0		0	0	0	false		0
+2	7116	Incurral of amounts in respect of assets (s24M)	Incurral of amounts in respect of assets acquired for unquantified amount (s24M)	0		0	0	0	false		0
+2	7115	Incurral of amounts in respect of acquis (s24N)	Incurral of amounts in respect of acquisition of equity shares (s24N)	0		0	0	0	false		0
+2	7117	Allowance in respect of future repairs to (s24P)	Allowance in respect of future repairs to certain ships (s24P)	0		0	0	0	false		0
+2	4432	(s12B)-excluding solar energy	Machinery, plant, implements, utensils and articles deduction (s12B) - excluding solar energy	0		0	0	0	false		0
+2	4433	(s12B)-photovoltaic solar energy of more than 1	Machinery, plant, implements, utensils and articles deduction (s12B) - photovoltaic solar energy of more than 1 megawatt	0		0	0	0	false		0
+2	4434	(s12B)-photovoltaic solar energy not exceeding 1	Machinery, plant, implements, utensils and articles deduction (s12B) - photovoltaic solar energy not exceeding 1 megawatt	0		0	0	0	false		0
+2	4435	(s12B)-concentrated solar energy	Machinery, plant, implements, utensils and articles deduction (s12B) - concentrated solar energy	0		0	0	0	false		0
+2	4436	Deduction in respect of roads and fences in (S12U)	Deduction in respect of roads and fences in respect of production of renewable energy (S12U)	0		0	0	0	false		0
+2	4483	UDZ (s13quat) - improvements to existing buildings	UDZ (s13quat) - improvements to existing buildings (low-cost residential units)	0		0	0	0	false		0
+2	4485	UDZ (s13quat)-improvements to existing buildings	UDZ (s13quat) - improvements to existing buildings (low-cost residential units)	0		0	0	0	false		0
+2	4517	Government grants (national, provincial and local)	Government grants (national, provincial and local)	0		0	0	0	false		0
+2	4541	Amounts deemed to be dividends in specie (S8f and	Amounts deemed to be dividends in specie (S8f and s8FA)	0		0	0	0	false		0
+2	4540	Dividends (local and foreign) deemed to be income	Dividends (local and foreign) deemed to be income (S8E and s8EA)	0		0	0	0	false		0
+2	4587	Expenditure incurred by a lessor of land let(s17A)	Expenditure incurred by a lessor of land let for farming purposes in respect of oil erosion (s17A)	0		0	0	0	false		0
+2	4542	Government grants (national, provincial and local)	Government grants (national, provincial and local)	0		0	0	0	false		0
+2	4453	Plant and machinery of small business corporations	Plant and machinery where company qualifies as a SBC: (s12E)	0		0	0	0	false		0
+2	4455	Industrial assets - qual strategic industrial proj	Industrial assets used for qualifying strategic industrial projects (s12G)	0		0	0	0	false		0
+2	4466	Prepaid expenditure (as limited by section 23H)	Prepaid expenditure not limited by s23H	0		0	0	0	false		0
+2	4468	Reversal - closing consumable stock and spares	Reversal of closing values consumable stock and spare parts (previous year)	0		0	0	0	false		0
+2	4469	Reversal of closing value of work in progress	Reversal of closing values of work in progress (s22(2A)) - previous year	0		0	0	0	false		0
+2	6947	Fair val. adj. to comply with IFRS	Adjustments to comply with IFRS: Fair value	0		0	0	0	false		0
+2	4480	Urban dev zone (sec 13quat) - total cost incurred	UDZ (s13quat) - erection of new buildings and/or extensions or additions to any existing buildings (excl. low-cost residential units)	0		0	0	0	false		0
+2	4481	Urban development zone (sec 13quat) improv this yr	UDZ (s13quat) - improvements this year to existing buildings	0		0	0	0	false		0
+2	4482	Urban development zone (sec 13quat) erect this yr	UDZ (s13quat) - erection of a new building this year new buildings and/or extensions or additions to any existing buildings	0		0	0	0	false		0
+2	4496	Deductions against foreign dividends	Deduction against Foreign Dividends (s11C)	0		0	0	0	false		0
+2	4495	Research and development deduction (s11D)	Research and development deduction (s11D)	0		0	0	0	false		0
+2	4494	Other building allowances	Other building allowances	0		0	0	0	false		0
+2	4501	Sales (Turnover)	Gross Sales (excl. credit notes) - Other than foreign connected	0		0	0	0	false		0
+2	4502	Cost of sales (excl. inventory adjustments)	Less: Cost of sales	0		0	0	0	false		0
+2	4503	Gross profit - subtotal	Gross profit - subtotal	0		0	0	0	false		0
+2	4504	Gross loss - subtotal	Gross loss - subtotal	0		0	0	0	false		0
+2	4507	Admin,management,secretarial,rentals - GroupCo's	Admin., management, secretarial, rentals, guarantee fees and other services - Connected (Local)	0		0	0	0	false		0
+2	4508	Bad and doubtful debts recovered	Bad and doubtful debts recovered	0		0	0	0	false		0
+2	4509	Dividends - local	Dividends - local	0		0	0	0	false		0
+2	4510	Foreign exchange gain (s24l)	Foreign exchange gain (s24l)	0		0	0	0	false		0
+2	4511	Interest - financial institutions / other	Interest - Financial institutions	0		0	0	0	false		0
+2	4512	Interest - connected persons / other	Interest - connected persons / other	0		0	0	0	false		0
+2	4514	Acc profit on disposal of fixed assets and/	Accounting profit on disposal of fixed assets and/or other assets	0		0	0	0	false		0
+2	4515	Other income (specify in a seperate schedule)	Other income	0		0	0	0	false		0
+2	4516	Admin,management&secretarial fees paid -ConnPerson	Admin., management, secretarial, rentals, guarantee fees and other services - Connected (Local)	0		0	0	0	false		0
+2	4518	Consulting, legal and professional fees	Consulting, legal and professional fees	0		0	0	0	false		0
+2	4519	Depreciation	Depreciation according to financial statements	0		0	0	0	false		0
+2	4520	Foreign exchange loss (s24l)	Foreign exchange loss (s24l)	0		0	0	0	false		0
+2	4521	Interest - financial institutions	Interest - financial institutions	0		0	0	0	false		0
+2	4522	Interest - connected persons	Interest - Connected (Local)	0		0	0	0	false		0
+2	4524	Loss on disposal of fixed assets	Accounting loss on disposal of fixed assets / other assets	0		0	0	0	false		0
+2	4528	Repairs and maintenance	Repairs and maintenance	0		0	0	0	false		0
+2	4529	Salaries and wages	Employee expenses: Wages and salaries (excluding medical, provident and pension)	0		0	0	0	false		0
+2	4532	Net profit - subtotal (carry forward to 6.4)	Net profit - subtotal	0		0	0	0	false		0
+2	4533	Net loss - subtotal (carry forward to 6.4)	Net loss - subtotal	0		0	0	0	false		0
+2	4537	Net profit after tax - subtotal	Net profit after tax - subtotal	0		0	0	0	false		0
+2	4538	Net loss after tax - subtotal	Net loss after tax - subtotal	0		0	0	0	false		0
+2	4539	Tainted Dividends (Local and foreign)(s22B)	Tainted Dividends (Local and foreign) deemed to be income (s22B)	0		0	0	0	false		0
+2	4545	Stock adjustments (write-off reversed)	Add: Inventory adjustments (Previous year stock provision reversed)	0		0	0	0	false		0
+2	4546	Dividends - foreign	Dividends - foreign	0		0	0	0	false		0
+2	4547	Bad debts written off	Bad debts written off	0		0	0	0	false		0
+2	4560	Inventory adj.(w-off of obsolete/slow-moving stock	Less: Inventory adj. (Current year stock provision (obsolete / slow-moving stock))	0		0	0	0	false		0
+2	4561	Admin, mngmt, secretarial, rentals - other persons	Admin., management, secretarial, rentals, guarantee fees and other services - Non-connected	0		0	0	0	false		0
+2	4562	Impairment loss recognised in profit or loss	Impairment loss recognised in profit or loss	0		0	0	0	false		0
+2	4563	Gross royalties and license fees	Gross royalties and license fees	0		0	0	0	false		0
+2	4564	Admin,mngmt & secretarial fees paid -Other persons	Admin., management, secretarial, rentals, guarantee fees and other services - Non - connected	0		0	0	0	false		0
+2	4565	Alterations and improvements (excluding R&M)	Alterations and improvements (excluding repairs and maintenance)	0		0	0	0	false		0
+2	4566	Compensation for loss of office	Compensation for loss of office	0		0	0	0	false		0
+2	4567	Provision for doubtful debts	Provision for doubtful debts	0		0	0	0	false		0
+2	4569	Directors'/members' remuneration	Directors' / members' remuneration	0		0	0	0	false		0
+2	4570	Research and development costs	Research and development costs (s11B)	0		0	0	0	false		0
+2	4571	Restraint of trade	Restraint of trade	0		0	0	0	false		0
+2	4572	Royalties and license fees (gross)	Royalties and license fees (excluding payments in terms of mineral and petroleum resources royalties) - Local	0		0	0	0	false		0
+2	4573	Accommodation and travel expenses: Local	Accommodation and travel expenses: Local	0		0	0	0	false		0
+2	4574	Foreign travelling	Accommodation and travel expenses: Foreign	0		0	0	0	false		0
+2	4575	Municipal charges (electricity, water, sewerage, r	Municipal charges (electricity, water, sewerage, refuse, rates & taxes)	0		0	0	0	false		0
+2	4576	Donations (s18A)	Donations (s18A)	0		0	0	0	false		0
+2	4580	Insurance premiums unrelated to assets of company	Insurance (excluding s37A payments)	0		0	0	0	false		0
+2	4581	Medical, pension and provident fund contributions	Employee expenses: Pension and Provident fund contributions	0		0	0	0	false		0
+2	4599	Other expenses (excluding items listed above)	Other expenses (excluding items listed above)	0		0	0	0	false		0
+2	4601	Non-distributable reserves	Non-distributable reserves for credit balances	0		0	0	0	false		0
+2	4602	Distributable reserves(other than retained income)	Distributable reserves (excl. retained profit / accumulated loss)	0		0	0	0	false		0
+2	4603	Retained profit	Retained profit	0		0	0	0	false		0
+2	4604	Accumulated loss	Accumulated loss	0		0	0	0	false		0
+2	4605	Deferred tax liability	Deferred tax liability	0		0	0	0	false		0
+2	4607	Long term loans - interest bearing	Long-term loans - interest bearing: Connected (Local)	0		0	0	0	false		0
+2	4608	Long term loans - interest free	Long-term loans - interest free: Connected (Local)	0		0	0	0	false		0
+2	4609	Fixed property	Fixed property	0		0	0	0	false		0
+2	4610	Goodwill and intellectual property	Goodwill and intellectual property	0		0	0	0	false		0
+2	4611	Plant and equipment	Plant and equipment	0		0	0	0	false		0
+2	4613	Long term loans - interest free	Long-term loans - interest free: Connected (Local)	0		0	0	0	false		0
+2	4614	Long term loans - interest bearing	Long-term loans - interest bearing: Connected (Local)	0		0	0	0	false		0
+2	4615	Gross inventory (including spare parts and consuma	Gross inventory (including spare parts and consumables and work in progress)	0		0	0	0	false		0
+2	4617	Prepayments	Prepayments	0		0	0	0	false		0
+2	4619	Group company current accounts	Group companies current accounts	0		0	0	0	false		0
+2	4620	SA Revenue Service	SA Revenue Service	0		0	0	0	false		0
+2	4621	Short term investments	Short-term investments	0		0	0	0	false		0
+2	4622	Other current assets (biologicals)	Other current assets (biologicals)	0		0	0	0	false		0
+2	4623	Trade and other payables (including accruals)	Gross trade and other payables (Not older than 3 years)	0		0	0	0	false		0
+2	4624	Provisions - excluding stock and trade receivables	Provisions - excluding inventory and trade receivables	0		0	0	0	false		0
+2	4625	Deposits and funds received in advance	Deposits and funds received in advance (excl. contract progress payments)	0		0	0	0	false		0
+2	4626	Contract progress payments received in advance	Contract progress payments received in advance	0		0	0	0	false		0
+2	4627	Current portion of interest bearing borrowings	Current portion of interest bearing borrowings	0		0	0	0	false		0
+2	4628	Overdraft and int-bearing short term borrowings	Overdraft and interest bearing short-term borrowings	0		0	0	0	false		0
+2	4629	SA Revenue Service Liability	SA Revenue Service Liability	0		0	0	0	false		0
+2	4630	Shareholders for dividend / proposed dividend	Shareholders for dividend / proposed dividend	0		0	0	0	false		0
+2	4631	Other current liabilities	Other current liabilities	0		0	0	0	false		0
+2	4632	Fixed assets - other	Fixed assets - other	0		0	0	0	false		0
+2	4634	Deferred tax asset / liability	Deferred tax asset / liability	0		0	0	0	false		0
+2	4636	Other non-current assets	Other non-current assets	0		0	0	0	false		0
+2	4637	Gross trade and other receivables	Gross trade and other receivables	0		0	0	0	false		0
+2	4638	Cash and cash equivalents	Cash and cash equivalents	0		0	0	0	false		0
+2	4639	Share capital	Share capital	0		0	0	0	false		0
+2	4640	Share premium	Share premium	0		0	0	0	false		0
+2	4641	Other capital and reserves	Other capital and reserves	0		0	0	0	false		0
+2	4642	Dividends declared	Dividends declared	0		0	0	0	false		0
+2	4643	Other non-current liabilities	Other non-current liabilities	0		0	0	0	false		0
+2	4644	Current portion of interest free borrowings	Current portion of interest free borrowings	0		0	0	0	false		0
+2	4645	Investments in subsidiaries	Investments in subsidiaries	0		0	0	0	false		0
+2	4646	Group companies current accounts	Group companies current accounts	0		0	0	0	false		0
+2	6902	Accounting interest received/receivable	Accounting interest received/receivable	0		0	0	0	false		0
+2	6903	Acc adj. to comply with IFRS	Adjustments to comply with IFRS: Accounting	0		0	0	0	false		0
+2	6223	Exempt certified emission reductions	Certified Emission Reductions Exemption (s12K)	0		0	0	0	false		0
+2	6905	Amounts previously taxed as received in advance	Amounts previously taxed as received in advance	0		0	0	0	false		0
+2	6907	Exempt Local dividends	Exempt Local dividends	0		0	0	0	false		0
+2	6908	Exempt foreign dividends (sec10(1)(k)(ii))	Exempt foreign dividends (s10(1)(k)(ii))	0		0	0	0	false		0
+2	6911	Receipts and/or accruals of a capital nature	Receipts and / or accruals of a capital nature	0		0	0	0	false		0
+2	6914	Acc profit on disposal of fixed and or other asset	Accounting profit on disposal of fixed assets and / or other assets	0		0	0	0	false		0
+2	6912	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6915	Amortisation of lump sum contributed to retirement	Amortisation of lump sum contributed to retirement / benefit funds (s11(l))	0		0	0	0	false		0
+2	6935	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6978	Interest accrued (s24J and s24JA)	Interest accrued (s24J and s24JA)	0		0	0	0	false		0
+2	6996	Reversal of provisions	Reversal of provisions	0		0	0	0	false		0
+2	6997	Learnership agreements registered / in effect (s12	Learnership agreements registered / in effect (s12H)- excluding learners with a disability - agreements entered into before 1 October 2016	0		0	0	0	false		0
+2	6999	Restraint of trade (section 11(cA))	Restraint of trade (s11(cA))	0		0	0	0	false		0
+2	69A9	Industrial Policy Projects: Training allowance	Industrial Policy Projects: Training allowance (sec. 121)	0		0	0	0	false		0
+2	69A1	Accounting losses from foreign sources (excl CFC)	Accounting losses derived from foreign sources (excluding CFC)	0		0	0	0	false		0
+2	69A8	Industrial Policy Projects: Investment allowance	Industrial policy projects: Brownfield projects (s12I)	0		0	0	0	false		0
+2	4102	PAYE (attach original IRP5 certificate)	PAYE	0		0	0	0	false		0
+2	4105	Foreign Tax Credit (submit proof - refer to 6.6)	Foreign Tax Credit (refer to "Taxable Foreign Income" below)	0		0	0	0	false		0
+2	4114	Foreign tax credit i.r.o. cap gain	Foreign Tax Credit i.r.o. Capital Gain	0		0	0	0	false		0
+2	4250	Capital Gain: Local	Capital Gain: Local	0		0	0	0	false		0
+2	4251	Capital Loss: Local	Capital Loss: Local	0		0	0	0	false		0
+2	69A7	Acc loss on disp of fixed and / or other assets	Accounting loss on disposal of fixed and / or other assets	0		0	0	0	false		0
+2	4252	Capital Gain: Foreign	Capital Gain: Foreign	0		0	0	0	false		0
+2	4253	Capital Loss: Foreign	Capital Loss: Foreign	0		0	0	0	false		0
+2	4276	Imputed net income from CFC	Imputed net income from CFC	0		0	0	0	false		0
+2	4401_1	Other Income exempt from tax i.t.o. s10(1)	Other income exempt from tax i.t.o.s10(1) not included elsewhere	0		0	0	0	false		0
+2	69A3	Transfer pricing adjustment (excl financial)	Transfer pricing adjustment (excluding financial assistance)	0		0	0	0	false		0
+2	69A4	Broad-based employee share plan	Broad-based employee share plan (deduction this year) (s11(lA))	0		0	0	0	false		0
+2	4408	Credit agreements and debtors allowance	Credit agreement and debtors allowance (hire-purchase) (s24)	0		0	0	0	false		0
+2	7450	Foreign trading	Foreign trading	0		0	0	0	false		0
+2	4410	Doubtful debt allowance (section 11(j))	Doubtful debt allowance (s11(j))	0		0	0	0	false		0
+2	7451	Foreign services	Foreign services	0		0	0	0	false		0
+2	4413	Film allowance (section 24F)	Film allowance (s24F)	0		0	0	0	false		0
+2	4414	Future expenditure allowance	Allowance for future expenditure (s24C)	0		0	0	0	false		0
+2	7452	Foreign annuities	Foreign annuities	0		0	0	0	false		0
+2	4417	Improvement to leasehold premises (s11(g))	Improvement to leasehold premises (s11(g))	0		0	0	0	false		0
+2	4418	Lease payment on capitalised leased assets	Lease payments on capitalised leased assets	0		0	0	0	false		0
+2	7453	Foreign investments	Foreign investments	0		0	0	0	false		0
+2	4419	Lease premium allowance (section 11(f))	Lease premium allowance (s11(f))	0		0	0	0	false		0
+2	4421	Machinery ship or aircraft allowance	Machinery, plant, implements, utensils and articles deduction (s12B)	0		0	0	0	false		0
+2	7454	Other foreign income	Other foreign income	0		0	0	0	false		0
+2	4425	Scrapping allowance (section 11(o))	Depreciable asset allowance (s11(o))	0		0	0	0	false		0
+2	4426	Transfer pricing adjustment	Transfer pricing adjustment	0		0	0	0	false		0
+2	6992	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6986	Lease charges (section 8(5))	Lease charges (s8(5))	0		0	0	0	false		0
+2	6985	Wear and tear (section 8(4))	Wear and tear (s8(4))	0		0	0	0	false		0
+2	6983	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6979	Loans and/or advances granted by an insurer	Loans / advances granted by an insurer (par. (m) of def. of “gross income”)	0		0	0	0	false		0
+2	6977	Income deemed to be from within the Republic	Income deemed to be from a South African source	0		0	0	0	false		0
+2	6976	Disposal of assets (section 22(2A))	Disposal of assets (s22(2A))	0		0	0	0	false		0
+2	6975	Closing value of consumable stock and spare parts	Closing value of consumable stock and spare parts	0		0	0	0	false		0
+2	6974	Amounts received in advance	Amounts received in advance	0		0	0	0	false		0
+2	6971	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6970	Credit agreements and debtors allowance	Credit agreements and debtors allowance (hire-purchase) (s24)	0		0	0	0	false		0
+2	6969	Allowance for future expenditure (section 24C)	Allowance for future expenditure (s24C)	0		0	0	0	false		0
+2	6968	Doubtful debt allowance (section 11(j))	Doubtful debt allowance (s11(j))	0		0	0	0	false		0
+2	6961	Other (excluding items listed above)	Other (excluding items listed above)	0		0	0	0	false		0
+2	6960	Financial assistance (section 31(3))	Financial assistance (s31)	0		0	0	0	false		0
+2	6959	Limitation of deductions (section 23H)	Prepaid expenditure not allowed under s23H	0		0	0	0	false		0
+2	6958	Transfer pricing adjustment (excl thin capital)	Transfer pricing adjustment (excluding thin capitalization adjustments)	0		0	0	0	false		0
+2	6956	LumpSum contr-Retirement, benefit fundss(s11(l))	Lump sum contributions to retirement and / or benefit funds	0		0	0	0	false		0
+2	6954	Interest / penalties paid - Taxes	Interest, penalties paid in respect of taxes (s23(d))	0		0	0	0	false		0
+2	6953	Interest paid - capitalised leased assets	Interest paid in respect of capitalised leased assets	0		0	0	0	false		0
+2	6952	Provisions not deductible current year	Provisions not deductible current year (excluding doubtful debt)	0		0	0	0	false		0
+2	6950	Exp re: non-taxable foreign inc (excl foreignDivs)	Expenses attributable to exempt income - Foreign	0		0	0	0	false		0
+2	6948	Expenses attributable to exempt income - Local	Expenses attributable to exempt income - Local	0		0	0	0	false		0
+2	6945	Capital expenditure and/or losses	Capital expenditure and / or losses	0		0	0	0	false		0
+2	6944	Amort - Lease premiums & Leasehold improvements	Amortisation of lease premiums and improvements to leasehold premises	0		0	0	0	false		0
+2	6942	Accounting interest paid/payable	Accounting interest paid / payable	0		0	0	0	false		0
+2	4467	Bad debts	Bad debts	0		0	0	0	false		0
+2	4465	Amounts accrued but not received	Amounts accrued but not received	0		0	0	0	false		0
+2	4464	Donations	Donations (s18A)	0		0	0	0	false		0
+2	7455	Imputed net income CFC	Imputed net income CFC	0		0	0	0	false		0
+2	7524	Foreign exch loss adjustment (s24I) excls 24I(4)	Foreign exchange loss adjustment (s24I) (excluding s24I(4))	0		0	0	0	false		0
+2	4438	Redemption allowance (mining operations) (s15(a))	Redemption allowance (mining operations) (s15(a))	0		0	0	0	false		0
+2	4440	Cash contributions to a Rehabilitation Trust/Comp	Cash contributions to a Rehabilitation Trust Fund / Company (s37A)	0		0	0	0	false		0
+2	4445	Deduction for assets acquired in exchange (s40CA)	Deduction for assets acquired in exchange for shares or debt issued (s40CA)	0		0	0	0	false		0
+2	4484	UDZ (s13quat)-erection of new buildings and/or ext	UDZ (s13quat) - erection of new buildings and/or extensions or additions to any existing buildings (low-cost residential units)	0		0	0	0	false		0
+2	4586	Expenditure incurred by a lessor of land let(s17A)	Expenditure incurred by a lessor of land let for farming purposes in respect of soil erosion (s17A)	0		0	0	0	false		0
+3	F.1	Fixed assets - cost		0		0	0	0	false		0
+3	F.2	Fixed assets - accumulated depreciation		0		0	0	0	false		0
+3	F.3	Intangible assets - cost		0		0	0	0	false		0
+3	F.4	Intangible assets - accumulated amortisation		0		0	0	0	false		0
+3	M.1	Manf - Opening stock		0		0	0	0	false		0
+3	M.2	Manf - Purchases		0		0	0	0	false		0
+3	M.3	Manf - Closing stock		0		0	0	0	false		0
+3	M.4	Manf - Direct labour		0		0	0	0	false		0
+3	M.5	Manf - Direct expenses		0		0	0	0	false		0
+3	M.6	Manf - Opening WIP		0		0	0	0	false		0
+3	M.7	Manf - Closing WIP		0		0	0	0	false		0
+4	D.1	Depreciation - Owned assets		0		0	0	0	false		0
+4	D.2	Depreciation - Capitalised leased assets		0		0	0	0	false		0
+4	D.3	Amortisation		0		0	0	0	false		0
+4	E.1	Auditors remuneration		0		0	0	0	false		0
+4	E.2	Directors emoluments		0		0	0	0	false		0
+4	E.3	Interest paid		0		0	0	0	false		0
+4	E.4	Research & Development		0		0	0	0	false		0
+4	E.5	Lease rentals on operating leases		0		0	0	0	false		0
+5	E200	Revenue		0		0	0	0	false		0
+5	E200. 1	Sales		0		0	0	0	false		0
+5	E200. 2	Farming revenue		0		0	0	0	false		0
+5	E200. 3	Other revenue		0		0	0	0	false		0
+5	E300	Debtors		0		0	0	0	false		0
+5	E300. 1	Trade accounts receivable		0		0	0	0	false		0
+5	E300. 2	Prepayments and deposits		0		0	0	0	false		0
+5	E300. 3	Sundry debtors		0		0	0	0	false		0
+5	E320	Other current asset #1		0		0	0	0	false		0
+5	E330	Other current asset # 2		0		0	0	0	false		0
+5	F200	Cost of sales		0		0	0	0	false		0
+5	F210	Manufacturing expenses		0		0	0	0	false		0
+5	F220	Farming cost of sales		0		0	0	0	false		0
+5	F300	Trade and other payables		0		0	0	0	false		0
+5	F300. 1	Trade accounts payable		0		0	0	0	false		0
+5	F300. 2	Accruals		0		0	0	0	false		0
+5	F300. 3	Sundry creditors		0		0	0	0	false		0
+5	F340	Other creditor #1		0		0	0	0	false		0
+5	F350	Other creditor #2		0		0	0	0	false		0
+5	F360	Other creditor #3		0		0	0	0	false		0
+5	G200	Payroll expenses		0		0	0	0	false		0
+5	G210	Directors' emoluments		0		0	0	0	false		0
+5	G300	Payroll accruals - refer to F300.2		0		0	0	0	false		0
+5	G310	Employee benefit liabilities or assets		0		0	0	0	false		0
+5	G310. 1	Employee benefit liabilities		0		0	0	0	false		0
+5	G310. 1.  1	Employee benefit liabilities - non-current		0		0	0	0	false		0
+5	G310. 1.  2	Employee benefit liabilities - current		0		0	0	0	false		0
+5	G310. 2	Employee benefit assets		0		0	0	0	false		0
+5	G310. 2.  1	Employee benefit assets - non-current		0		0	0	0	false		0
+5	G310. 2.  2	Employee benefit assets - current		0		0	0	0	false		0
+5	H300	Inventory		0		0	0	0	false		0
+5	H300. 1	Raw Materials		0		0	0	0	false		0
+5	H300. 2	Consumable stores		0		0	0	0	false		0
+5	H300. 3	Work in progress		0		0	0	0	false		0
+5	H300. 4	Finished goods		0		0	0	0	false		0
+5	H300. 5	Merchandise		0		0	0	0	false		0
+5	H300. 6	Other stock # 1		0		0	0	0	false		0
+5	H310	Trading livestock		0		0	0	0	false		0
+5	H320	Contracts in progress		0		0	0	0	false		0
+5	J300	Capital		0		0	0	0	false		0
+5	J310	Share capital		0		0	0	0	false		0
+5	J310. 1	Ordinary share capital		0		0	0	0	false		0
+5	J310. 2	Preference share capital		0		0	0	0	false		0
+5	J310. 3	Share premium		0		0	0	0	false		0
+5	J340	Non-distributable reserves		0		0	0	0	false		0
+5	J350	Distributable reserves		0		0	0	0	false		0
+5	J350. 3.  1	Ordinary dividends		0		0	0	0	false		0
+5	J350. 3.  2	Preference dividends		0		0	0	0	false		0
+5	J380	Minority interest		0		0	0	0	false		0
+5	K200	Finance charges		0		0	0	0	false		0
+5	K300	Borrowings		0		0	0	0	false		0
+5	K300. 1	Borrowings - non-current		0		0	0	0	false		0
+5	K300. 2	Borrowings - current		0		0	0	0	false		0
+5	K310	Shareholders' loans		0		0	0	0	false		0
+5	K310. 1	Shareholders loans - non-current		0		0	0	0	false		0
+5	K310. 2	Shareholder's loans - current		0		0	0	0	false		0
+5	K340	Deferred revenue		0		0	0	0	false		0
+5	K370	Amounts owing to group companies (excl subs)		0		0	0	0	false		0
+5	K370. 1	Amounts owing to group companies-non-current		0		0	0	0	false		0
+5	K370. 2	Amounts owing to group companies - current		0		0	0	0	false		0
+5	K380	Dividend payable		0		0	0	0	false		0
+5	K390	Loans payable - current		0		0	0	0	false		0
+5	L200	Contingencies & commitments		0		0	0	0	false		0
+5	M200	Operational asset cost		0		0	0	0	false		0
+5	M210	Depreciation and amortisation		0		0	0	0	false		0
+5	M210. 1	Depreciation		0		0	0	0	false		0
+5	M210. 1.  1	Depreciation - general		0		0	0	0	false		0
+5	M210. 1.  2	Depreciation - farming		0		0	0	0	false		0
+5	M210. 2	Amortisation		0		0	0	0	false		0
+5	M220	Profit/loss related to non-current assets		0		0	0	0	false		0
+5	M230	Operating lease charges		0		0	0	0	false		0
+5	M240	Repairs and maintenance		0		0	0	0	false		0
+5	M250	Impairments		0		0	0	0	false		0
+5	M250. 1	Impairments - Fixed assets		0		0	0	0	false		0
+5	M250. 2	Impairments - Intangible assets		0		0	0	0	false		0
+5	M250. 3	Impairments - Investment Properties		0		0	0	0	false		0
+5	M250. 4	Impairments - Investments		0		0	0	0	false		0
+5	M300	Property, plant and equipment		0		0	0	0	false		0
+5	M320	Productive livestock		0		0	0	0	false		0
+5	M310	Intangible assets		0		0	0	0	false		0
+5	M330	Investment properties		0		0	0	0	false		0
+5	N200	Investment income		0		0	0	0	false		0
+5	N200. 1	Interest received		0		0	0	0	false		0
+5	N200. 2	Dividends received		0		0	0	0	false		0
+5	N210	Profit/loss on sale of investments		0		0	0	0	false		0
+5	N310	Investments		0		0	0	0	false		0
+5	N320	Trading investments		0		0	0	0	false		0
+5	N330	Investment in subsidiaries		0		0	0	0	false		0
+5	N330. 1	Investment in subsidiaries - share & provs		0		0	0	0	false		0
+5	N330. 2	Investment in subsidiaries - Loans to subsidiaries		0		0	0	0	false		0
+5	N330. 3	Investment in subsidiaries - Loans from subs		0		0	0	0	false		0
+5	N340	Investment in associate		0		0	0	0	false		0
+5	N340. 1	Investment in associate - shares and prov		0		0	0	0	false		0
+5	N340. 2	Investment in associate - loans to ass		0		0	0	0	false		0
+5	N340. 3	Investment in associate - loans from ass		0		0	0	0	false		0
+5	N345	Investment in joint venture		0		0	0	0	false		0
+5	N345. 1	Investment in joint venture - shares and prov		0		0	0	0	false		0
+5	N345. 2	Investment in joint venture - loans to jv		0		0	0	0	false		0
+5	N345. 3	Investment in joint venture - loans from jv		0		0	0	0	false		0
+5	N350	Loans receivable		0		0	0	0	false		0
+5	N350. 1	Loans receivalbe - non-current		0		0	0	0	false		0
+5	N350. 2	Loans receivable - current		0		0	0	0	false		0
+5	N370	Amounts owing by group companies		0		0	0	0	false		0
+5	N370. 1	Amounts owing by group companies - non-current		0		0	0	0	false		0
+5	N370. 2	Amounts owing by group companies - current		0		0	0	0	false		0
+5	N380	Other investment #1		0		0	0	0	false		0
+5	Q300	Cash and cash equivalents		0		0	0	0	false		0
+5	Q300. 1	Bank and cash balances		0		0	0	0	false		0
+5	Q300. 2	Bank overdraft		0		0	0	0	false		0
+5	Q310	Forward exchange contracts		0		0	0	0	false		0
+5	R210	Other income		0		0	0	0	false		0
+5	R210. 1	Profit/loss on forex		0		0	0	0	false		0
+5	R210. 2	Income from subsidiaries		0		0	0	0	false		0
+5	R220	Other expenses		0		0	0	0	false		0
+5	R220. 1	Auditors remuneration		0		0	0	0	false		0
+5	R220. 2	Remuneration other that to employees		0		0	0	0	false		0
+5	R220. 3	Research & development		0		0	0	0	false		0
+5	R220. 4	Other expense # 1		0		0	0	0	false		0
+5	R220. 5	Other expense # 2		0		0	0	0	false		0
+5	R220. 6	Other expense # 3		0		0	0	0	false		0
+5	R220. 7	Other expense # 4		0		0	0	0	false		0
+5	R230	Farming expenses		0		0	0	0	false		0
+5	R300	Provisions		0		0	0	0	false		0
+5	R300. 1	Provisions - non-current		0		0	0	0	false		0
+5	R300. 2	Provisions - current		0		0	0	0	false		0
+5	S200	Taxation expense		0		0	0	0	false		0
+5	S200. 1	Taxation - current		0		0	0	0	false		0
+5	S200. 2	Taxation - prior year adjustment		0		0	0	0	false		0
+5	S200. 3	Taxation - transition levy		0		0	0	0	false		0
+5	S200. 4	Taxation - secondary tax on companies		0		0	0	0	false		0
+5	S200. 5	Taxation - deferred tax		0		0	0	0	false		0
+5	S300	Receiver of revenue		0		0	0	0	false		0
+5	S310	Deferred taxation		0		0	0	0	false		0
+6	E200	Revenue		0		0	0	0	false		0
+6	E200. 1	Sales		0		0	0	0	false		0
+6	E200. 2	Farming revenue		0		0	0	0	false		0
+6	E200. 3	Other revenue		0		0	0	0	false		0
+6	E300	Debtors		0		0	0	0	false		0
+6	E300. 1	Trade accounts receivable		0		0	0	0	false		0
+6	E300. 2	Prepayments and deposits		0		0	0	0	false		0
+6	E300. 3	Sundry debtors		0		0	0	0	false		0
+6	E320	Other current asset #1		0		0	0	0	false		0
+6	E330	Other current asset # 2		0		0	0	0	false		0
+6	F200	Cost of sales		0		0	0	0	false		0
+6	F210	Manufacturing expenses		0		0	0	0	false		0
+6	F220	Farming cost of sales		0		0	0	0	false		0
+6	F300	Trade and other payables		0		0	0	0	false		0
+6	F300. 1	Trade accounts payable		0		0	0	0	false		0
+6	F300. 2	Accruals		0		0	0	0	false		0
+6	F300. 3	Sundry creditors		0		0	0	0	false		0
+6	F340	Other creditor #1		0		0	0	0	false		0
+6	F350	Other creditor #2		0		0	0	0	false		0
+6	F360	Other creditor #3		0		0	0	0	false		0
+6	G200	Payroll expenses		0		0	0	0	false		0
+6	G210	Directors' emoluments		0		0	0	0	false		0
+6	G300	Payroll accruals - refer to F300.2		0		0	0	0	false		0
+6	G310	Employee benefit liabilities or assets		0		0	0	0	false		0
+6	G310. 1	Employee benefit liabilities		0		0	0	0	false		0
+6	G310. 1.  1	Employee benefit liabilities - non-current		0		0	0	0	false		0
+6	G310. 1.  2	Employee benefit liabilities - current		0		0	0	0	false		0
+6	G310. 2	Employee benefit assets		0		0	0	0	false		0
+6	G310. 2.  1	Employee benefit assets - non-current		0		0	0	0	false		0
+6	G310. 2.  2	Employee benefit assets - current		0		0	0	0	false		0
+6	H300	Inventory		0		0	0	0	false		0
+6	H300. 1	Raw Materials		0		0	0	0	false		0
+6	H300. 2	Consumable stores		0		0	0	0	false		0
+6	H300. 3	Work in progress		0		0	0	0	false		0
+6	H300. 4	Finished goods		0		0	0	0	false		0
+6	H300. 5	Merchandise		0		0	0	0	false		0
+6	H300. 6	Other stock # 1		0		0	0	0	false		0
+6	H310	Trading livestock		0		0	0	0	false		0
+6	H320	Contracts in progress		0		0	0	0	false		0
+6	J300	Capital		0		0	0	0	false		0
+6	J310	Share capital		0		0	0	0	false		0
+6	J310. 1	Ordinary share capital		0		0	0	0	false		0
+6	J310. 2	Preference share capital		0		0	0	0	false		0
+6	J310. 3	Share premium		0		0	0	0	false		0
+6	J340	Non-distributable reserves		0		0	0	0	false		0
+6	J350	Distributable reserves		0		0	0	0	false		0
+6	J350. 3.  1	Ordinary dividends		0		0	0	0	false		0
+6	J350. 3.  2	Preference dividends		0		0	0	0	false		0
+6	J380	Minority interest		0		0	0	0	false		0
+6	K200	Finance charges		0		0	0	0	false		0
+6	K300	Borrowings		0		0	0	0	false		0
+6	K300. 1	Borrowings - non-current		0		0	0	0	false		0
+6	K300. 2	Borrowings - current		0		0	0	0	false		0
+6	K310	Shareholders' loans		0		0	0	0	false		0
+6	K310. 1	Shareholders loans - non-current		0		0	0	0	false		0
+6	K310. 2	Shareholder's loans - current		0		0	0	0	false		0
+6	K340	Deferred revenue		0		0	0	0	false		0
+6	K370	Amounts owing to group companies (excl subs)		0		0	0	0	false		0
+6	K370. 1	Amounts owing to group companies-non-current		0		0	0	0	false		0
+6	K370. 2	Amounts owing to group companies - current		0		0	0	0	false		0
+6	K380	Dividend payable		0		0	0	0	false		0
+6	K390	Loans payable - current		0		0	0	0	false		0
+6	L200	Contingencies & commitments		0		0	0	0	false		0
+6	M200	Operational asset cost		0		0	0	0	false		0
+6	M210	Depreciation and amortisation		0		0	0	0	false		0
+6	M210. 1	Depreciation		0		0	0	0	false		0
+6	M210. 1.  1	Depreciation - general		0		0	0	0	false		0
+6	M210. 1.  2	Depreciation - farming		0		0	0	0	false		0
+6	M210. 2	Amortisation		0		0	0	0	false		0
+6	M220	Profit/loss related to non-current assets		0		0	0	0	false		0
+6	M230	Operating lease charges		0		0	0	0	false		0
+6	M240	Repairs and maintenance		0		0	0	0	false		0
+6	M250	Impairments		0		0	0	0	false		0
+6	M250. 1	Impairments - Fixed assets		0		0	0	0	false		0
+6	M250. 2	Impairments - Intangible assets		0		0	0	0	false		0
+6	M250. 3	Impairments - Investment Properties		0		0	0	0	false		0
+6	M250. 4	Impairments - Investments		0		0	0	0	false		0
+6	M300	Property, plant and equipment		0		0	0	0	false		0
+6	M320	Productive livestock		0		0	0	0	false		0
+6	M310	Intangible assets		0		0	0	0	false		0
+6	M330	Investment properties		0		0	0	0	false		0
+6	N200	Investment income		0		0	0	0	false		0
+6	N200. 1	Interest received		0		0	0	0	false		0
+6	N200. 2	Dividends received		0		0	0	0	false		0
+6	N210	Profit/loss on sale of investments		0		0	0	0	false		0
+6	N310	Investments		0		0	0	0	false		0
+6	N320	Trading investments		0		0	0	0	false		0
+6	N330	Investment in subsidiaries		0		0	0	0	false		0
+6	N330. 1	Investment in subsidiaries - share & provs		0		0	0	0	false		0
+6	N330. 2	Investment in subsidiaries - Loans to subsidiaries		0		0	0	0	false		0
+6	N330. 3	Investment in subsidiaries - Loans from subs		0		0	0	0	false		0
+6	N340	Investment in associate		0		0	0	0	false		0
+6	N340. 1	Investment in associate - shares and prov		0		0	0	0	false		0
+6	N340. 2	Investment in associate - loans to ass		0		0	0	0	false		0
+6	N340. 3	Investment in associate - loans from ass		0		0	0	0	false		0
+6	N345	Investment in joint venture		0		0	0	0	false		0
+6	N345. 1	Investment in joint venture - shares and prov		0		0	0	0	false		0
+6	N345. 2	Investment in joint venture - loans to jv		0		0	0	0	false		0
+6	N345. 3	Investment in joint venture - loans from jv		0		0	0	0	false		0
+6	N350	Loans receivable		0		0	0	0	false		0
+6	N350. 1	Loans receivalbe - non-current		0		0	0	0	false		0
+6	N350. 2	Loans receivable - current		0		0	0	0	false		0
+6	N370	Amounts owing by group companies		0		0	0	0	false		0
+6	N370. 1	Amounts owing by group companies - non-current		0		0	0	0	false		0
+6	N370. 2	Amounts owing by group companies - current		0		0	0	0	false		0
+6	N380	Other investment #1		0		0	0	0	false		0
+6	Q300	Cash and cash equivalents		0		0	0	0	false		0
+6	Q300. 1	Bank and cash balances		0		0	0	0	false		0
+6	Q300. 2	Bank overdraft		0		0	0	0	false		0
+6	Q310	Forward exchange contracts		0		0	0	0	false		0
+6	R210	Other income		0		0	0	0	false		0
+6	R210. 1	Profit/loss on forex		0		0	0	0	false		0
+6	R210. 2	Income from subsidiaries		0		0	0	0	false		0
+6	R220	Other expenses		0		0	0	0	false		0
+6	R220. 1	Auditors remuneration		0		0	0	0	false		0
+6	R220. 2	Remuneration other that to employees		0		0	0	0	false		0
+6	R220. 3	Research & development		0		0	0	0	false		0
+6	R220. 4	Other expense # 1		0		0	0	0	false		0
+6	R220. 5	Other expense # 2		0		0	0	0	false		0
+6	R220. 6	Other expense # 3		0		0	0	0	false		0
+6	R220. 7	Other expense # 4		0		0	0	0	false		0
+6	R230	Farming expenses		0		0	0	0	false		0
+6	R300	Provisions		0		0	0	0	false		0
+6	R300. 1	Provisions - non-current		0		0	0	0	false		0
+6	R300. 2	Provisions - current		0		0	0	0	false		0
+6	S200	Taxation expense		0		0	0	0	false		0
+6	S200. 1	Taxation - current		0		0	0	0	false		0
+6	S200. 2	Taxation - prior year adjustment		0		0	0	0	false		0
+6	S200. 3	Taxation - transition levy		0		0	0	0	false		0
+6	S200. 4	Taxation - secondary tax on companies		0		0	0	0	false		0
+6	S200. 5	Taxation - deferred tax		0		0	0	0	false		0
+6	S300	Receiver of revenue		0		0	0	0	false		0
+6	S310	Deferred taxation		0		0	0	0	false		0
+8	A	Division A		0		0	0	0	false		0
+9	F	Fixed costs		0		0	2	0	false		0
+9	V	Variable costs		0		0	2	0	false		0
+10	A	Administration expenses		0		0	2	0	false		0
+10	D	Distribution expenses		0		0	2	0	false		0
+10	O	Other expenses		0		0	2	0	false		0
+10	S	Selling expenses		0		0	2	0	false		0

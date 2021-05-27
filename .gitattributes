@@ -1,0 +1,5 @@
+*.cvw filter=lfs diff=lfs merge=lfs -text
+*.cdx filter=lfs diff=lfs merge=lfs -text
+*.dbf filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.ftp filter=lfs diff=lfs merge=lfs -text
